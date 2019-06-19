@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/Symmetric Tree_101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/maximum_depth_of_binary_tree_104.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/Symmetric Tree_101.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/symmetric_tree_101.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,17 +39,26 @@
       <file leaf-file-name="same_tree_100.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/same_tree_100.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="986">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Symmetric Tree_101.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/Symmetric Tree_101.py">
+      <file leaf-file-name="symmetric_tree_101.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/symmetric_tree_101.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+            <state relative-caret-position="99">
+              <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maximum_depth_of_binary_tree_104.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/maximum_depth_of_binary_tree_104.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -82,6 +92,8 @@
         <option value="$PROJECT_DIR$/easy/climbing_stairs_70.py" />
         <option value="$PROJECT_DIR$/easy/same_tree_100.py" />
         <option value="$PROJECT_DIR$/easy/Symmetric Tree_101.py" />
+        <option value="$PROJECT_DIR$/easy/maximum_depth_of_binary_tree.py" />
+        <option value="$PROJECT_DIR$/easy/maximum_depth_of_binary_tree_104.py" />
       </list>
     </option>
   </component>
@@ -95,9 +107,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-246" />
-    <option name="y" value="25" />
-    <option name="width" value="1926" />
+    <option name="x" value="177" />
+    <option name="y" value="449" />
+    <option name="width" value="1680" />
     <option name="height" value="944" />
   </component>
   <component name="ProjectView">
@@ -183,7 +195,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-246" y="25" width="1926" height="944" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="944" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -192,8 +204,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977462" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3293979" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20010616" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32821724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23260073" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -216,6 +228,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/easy/maximum_subarray_53.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/climbing_stairs_70.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/same_tree_100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/sqrt_x_69.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/symmetric_tree_101.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="11" lean-forward="true" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/easy/maximum_subarray_53.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -274,15 +321,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/same_tree_100.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        <state relative-caret-position="986">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/Symmetric Tree_101.py">
+    <entry file="file://$PROJECT_DIR$/easy/symmetric_tree_101.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="32" column="60" selection-start-line="32" selection-start-column="60" selection-end-line="32" selection-end-column="60" />
+        <state relative-caret-position="99">
+          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/maximum_depth_of_binary_tree_104.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
