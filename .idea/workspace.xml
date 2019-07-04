@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/convert_sorted_array_to_binary_search_tree_108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/balanced_binary_tree_110_ans1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/balanced_binary_tree_110_ans2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,8 +66,8 @@
       <file leaf-file-name="binary_tree_level_order_traversal_ii_107_ans1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="12" selection-end-line="46" />
+            <state relative-caret-position="136">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -74,26 +75,35 @@
       <file leaf-file-name="binary_tree_level_order_traversal_ii_107_ans2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="convert_sorted_array_to_binary_search_tree_108.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="convert_sorted_array_to_binary_search_tree_108.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/convert_sorted_array_to_binary_search_tree_108.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="421">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sqrt_x_69.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/sqrt_x_69.py">
+      <file leaf-file-name="balanced_binary_tree_110_ans1.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/balanced_binary_tree_110_ans1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="19" selection-start-column="19" selection-end-column="19" />
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-end-line="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="balanced_binary_tree_110_ans2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/balanced_binary_tree_110_ans2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-176">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -124,6 +134,9 @@
         <option value="$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans1.py" />
         <option value="$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans2.py" />
         <option value="$PROJECT_DIR$/easy/convert_sorted_array_to_binary_search_tree_108.py" />
+        <option value="$PROJECT_DIR$/easy/balanced_binary_tree_110.py" />
+        <option value="$PROJECT_DIR$/easy/balanced_binary_tree_110_ans2.py" />
+        <option value="$PROJECT_DIR$/easy/balanced_binary_tree_110_ans1.py" />
       </list>
     </option>
   </component>
@@ -136,9 +149,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="11" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="187" />
+    <option name="y" value="208" />
     <option name="width" value="1680" />
     <option name="height" value="940" />
   </component>
@@ -147,6 +160,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -163,7 +177,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -230,8 +243,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1680" height="940" extended-state="6" />
-    <editor active="true" />
+    <frame x="187" y="208" width="1680" height="940" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -239,8 +251,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977462" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32740214" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24297924" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3262159" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25213677" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -263,6 +275,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/easy/convert_sorted_array_to_binary_search_tree_108.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/easy/maximum_subarray_53.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -543,20 +562,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/maximum_subarray_53.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/climbing_stairs_70.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/same_tree_100.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
@@ -571,13 +576,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/maximum_depth_of_binary_tree_104.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -585,17 +583,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans2.py">
+    <entry file="file://$PROJECT_DIR$/easy/maximum_subarray_53.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="408">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/convert_sorted_array_to_binary_search_tree_108.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        <state relative-caret-position="421">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/climbing_stairs_70.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/balanced_binary_tree_110_ans1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/balanced_binary_tree_110_ans2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>
