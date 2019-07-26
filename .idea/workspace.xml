@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/binary_tree_paths_257.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/dota2_senate_649.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/three_equal_parts_927.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/missing_number_268.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/dota2_senate_649.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/dota2_senate_649.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,71 +17,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$maximum_subarray_53.coverage" NAME="maximum_subarray_53 Coverage Results" MODIFIED="1560312484612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="house_robber_198.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/house_robber_198.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="implement_stack_using_queues_225.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/implement_stack_using_queues_225.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lowest_common_ancestor_of_a_binary_search_tree_235.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/lowest_common_ancestor_of_a_binary_search_tree_235.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="3" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="invert_binary_tree_226_ans1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/invert_binary_tree_226_ans1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="invert_binary_tree_226_ans2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/invert_binary_tree_226_ans2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="31" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binary_tree_paths_257.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/binary_tree_paths_257.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="three_equal_parts_927.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/three_equal_parts_927.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -131,8 +66,9 @@
         <option value="$PROJECT_DIR$/easy/invert_binary_tree_226_ans1.py" />
         <option value="$PROJECT_DIR$/easy/invert_binary_tree_226_ans2.py" />
         <option value="$PROJECT_DIR$/easy/binary_tree_paths_257.py" />
-        <option value="$PROJECT_DIR$/easy/dota2_senate_649.py" />
         <option value="$PROJECT_DIR$/easy/three_equal_parts_927.py" />
+        <option value="$PROJECT_DIR$/easy/dota2_senate_649.py" />
+        <option value="$PROJECT_DIR$/easy/missing_number_268.py" />
       </list>
     </option>
   </component>
@@ -146,7 +82,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="26" />
+    <option name="x" value="-2" />
+    <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="907" />
   </component>
@@ -162,11 +99,6 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,8 +170,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="26" width="1680" height="907" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1" y="23" width="1680" height="907" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -247,8 +178,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977462" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30617285" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2014652" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3345679" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2039072" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -271,13 +202,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/maximum_subarray_53.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -579,17 +503,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/implement_stack_using_queues_225.py">
+    <entry file="file://$PROJECT_DIR$/easy/lowest_common_ancestor_of_a_binary_search_tree_235.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="187">
+          <caret line="11" column="3" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/dota2_senate_649.py">
+    <entry file="file://$PROJECT_DIR$/easy/three_equal_parts_927.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="17" lean-forward="true" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/binary_tree_paths_257.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -607,24 +538,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/lowest_common_ancestor_of_a_binary_search_tree_235.py">
+    <entry file="file://$PROJECT_DIR$/easy/dota2_senate_649.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="3" selection-end-line="30" />
+        <state relative-caret-position="277">
+          <caret line="21" column="11" lean-forward="true" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/binary_tree_paths_257.py">
+    <entry file="file://$PROJECT_DIR$/easy/missing_number_268.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="51">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/three_equal_parts_927.py">
+    <entry file="file://$PROJECT_DIR$/easy/implement_stack_using_queues_225.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="323">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
         </state>
       </provider>
     </entry>

@@ -13,7 +13,7 @@ Soultions:
 """
 
 
-class BinaryTreePaths(object):
+class Dota2Senate(object):
 
     def predictPartyVictory(self, senate):
         """
