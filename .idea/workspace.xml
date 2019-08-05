@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/first_unique_character_in_a_string_387.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/find_the_difference_389_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/find_the_difference_389_hash.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,16 +49,34 @@
         <entry file="file://$PROJECT_DIR$/easy/unique_paths_62_math.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+              <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="first_unique_character_in_a_string_387.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="first_unique_character_in_a_string_387.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/first_unique_character_in_a_string_387.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find_the_difference_389_hash.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/find_the_difference_389_hash.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find_the_difference_389_collections.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/find_the_difference_389_collections.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -119,6 +138,9 @@
         <option value="$PROJECT_DIR$/easy/unique_paths_62.py" />
         <option value="$PROJECT_DIR$/easy/unique_paths_62_math.py" />
         <option value="$PROJECT_DIR$/easy/first_unique_character_in_a_string_387.py" />
+        <option value="$PROJECT_DIR$/easy/find_the_difference_389.py" />
+        <option value="$PROJECT_DIR$/easy/find_the_difference_389_collections.py" />
+        <option value="$PROJECT_DIR$/easy/find_the_difference_389_hash.py" />
       </list>
     </option>
   </component>
@@ -132,7 +154,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="-48" />
+    <option name="y" value="157" />
     <option name="width" value="1680" />
     <option name="height" value="907" />
   </component>
@@ -141,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,7 +181,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +247,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="907" extended-state="0" />
+    <frame x="-48" y="157" width="1680" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -233,8 +256,8 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32977462" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33333334" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21821515" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33209875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22344323" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -257,20 +280,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/sqrt_x_69.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/binary_tree_level_order_traversal_ii_107_ans1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/maximum_subarray_53.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -603,14 +612,28 @@
     <entry file="file://$PROJECT_DIR$/easy/unique_paths_62_math.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/first_unique_character_in_a_string_387.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/find_the_difference_389_collections.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/find_the_difference_389_hash.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
         </state>
       </provider>
     </entry>
