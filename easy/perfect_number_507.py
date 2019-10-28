@@ -19,10 +19,3 @@ class PerfectNumber(object):
                     total += num / div
             div += 1
         return 1 < total == num
-
-
-
-
-
-
-
