@@ -31,12 +31,3 @@ class ConvertBSTToGreaterTree(object):
         self.temp_sum += child.val
         child.val = self.temp_sum
         self.after_order(child.left)
-
-
-
-
-
-
-
-
-
