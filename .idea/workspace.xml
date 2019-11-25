@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/student_attendance_record_I_551.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/next_greater_element_III_556.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="perfect_number_507.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/perfect_number_507.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="fibonacci_number_509.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/fibonacci_number_509.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -67,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="student_attendance_record_I_551.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="student_attendance_record_I_551.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/student_attendance_record_I_551.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="next_greater_element_III_556.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/next_greater_element_III_556.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="362">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -107,7 +107,7 @@
         <entry file="file://$PROJECT_DIR$/easy/diameter_of_binary_tree_543.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -127,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/three_equal_parts_927.py" />
         <option value="$PROJECT_DIR$/easy/dota2_senate_649.py" />
         <option value="$PROJECT_DIR$/easy/missing_number_268.py" />
         <option value="$PROJECT_DIR$/easy/nim_game_292.py" />
@@ -178,6 +177,7 @@
         <option value="$PROJECT_DIR$/easy/reverse_string_II_541.py" />
         <option value="$PROJECT_DIR$/easy/diameter_of_binary_tree_543.py" />
         <option value="$PROJECT_DIR$/easy/student_attendance_record_I_551.py" />
+        <option value="$PROJECT_DIR$/easy/next_greater_element_III_556.py" />
       </list>
     </option>
   </component>
@@ -190,10 +190,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="51" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="418" />
     <option name="width" value="1680" />
-    <option name="height" value="963" />
+    <option name="height" value="959" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -370,22 +370,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="51" width="1680" height="963" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="959" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40366971" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32938388" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37066975" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2912088" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40366971" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3700696" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2948718" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -402,13 +403,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/dota2_senate_649.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="21" column="11" lean-forward="true" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/missing_number_268.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -734,7 +728,7 @@
     <entry file="file://$PROJECT_DIR$/easy/diameter_of_binary_tree_543.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -754,8 +748,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/student_attendance_record_I_551.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/next_greater_element_III_556.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
