@@ -21,7 +21,7 @@ class QuadTreeIntersection(object):
                 self.isLeaf = isLeaf
                 self.topLeft = topLeft
                 self.topRight = topRight
-                self.bottomLeft = bottomLeft
+                self.bottomLeft = bottomLeft 
                 self.bottomRight = bottomRight
         :param quadTree1:
         :param quadTree2:
