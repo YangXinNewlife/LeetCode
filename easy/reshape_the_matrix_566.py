@@ -1,5 +1,10 @@
 # -*- coding:utf-8 -*-
 __author__ = 'yangxin_ryan'
+"""
+Solutions:
+题意就是将原有的len(nums)行、len(nums[0])列的矩阵，reshape为r行，c列；
+如果转换不了直接返回原有矩阵
+"""
 
 
 class ReshapeTheMatrix(object):
