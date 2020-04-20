@@ -20,6 +20,3 @@ class NaryTreePreorderTraversal(object):
         self.dfs(root)
         return self.result
 
-
-
-
