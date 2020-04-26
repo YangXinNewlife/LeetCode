@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/minimum_index_sum_of_two_lists_599.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/can_place_flowers_605.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,15 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="array_partition_I_561.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/array_partition_I_561.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="binary_tree_tilt_563.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/binary_tree_tilt_563.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -103,11 +94,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="minimum_index_sum_of_two_lists_599.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="minimum_index_sum_of_two_lists_599.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/minimum_index_sum_of_two_lists_599.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+            <state relative-caret-position="238">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="can_place_flowers_605.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/can_place_flowers_605.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -127,7 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/fizz_buzz_412.py" />
         <option value="$PROJECT_DIR$/easy/third_maximum_number_414.py" />
         <option value="$PROJECT_DIR$/easy/add_strings_415.py" />
         <option value="$PROJECT_DIR$/easy/add_strings_415_ans2.py" />
@@ -178,6 +177,7 @@
         <option value="$PROJECT_DIR$/easy/longest_harmonious_subsequence_594.py" />
         <option value="$PROJECT_DIR$/easy/range_addition_II_598.py" />
         <option value="$PROJECT_DIR$/easy/minimum_index_sum_of_two_lists_599.py" />
+        <option value="$PROJECT_DIR$/easy/can_place_flowers_605.py" />
       </list>
     </option>
   </component>
@@ -191,8 +191,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-26" />
-    <option name="y" value="469" />
+    <option name="x" value="11" />
+    <option name="y" value="416" />
     <option name="width" value="1680" />
     <option name="height" value="945" />
   </component>
@@ -201,7 +201,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,6 +217,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,7 +371,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-26" y="469" width="1680" height="945" extended-state="0" />
+    <frame x="11" y="416" width="1680" height="945" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -381,7 +381,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.40366971" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.4658019" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36935288" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37362638" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -404,13 +404,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/third_maximum_number_414.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/balanced_binary_tree_110_ans1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -756,8 +749,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/minimum_index_sum_of_two_lists_599.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        <state relative-caret-position="238">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/can_place_flowers_605.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
         </state>
       </provider>
     </entry>
