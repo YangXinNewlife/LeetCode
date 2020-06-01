@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/count_binary_substrings_696.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/median_of_two_sorted_arrays_part.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/subsets_78.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/easy/count_binary_substrings_696.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/count_binary_substrings_696.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,29 @@
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.subsets_78">
+  <component name="RunManager" selected="Python.count_binary_substrings_696">
+    <configuration name="bag_question" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/bag_question.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="binary_number_with_alternating_bits_693_part2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci_number_509" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="count_binary_substrings_696" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,7 +109,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/fibonacci_number_509.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/count_binary_substrings_696.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,28 +132,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/median_of_two_sorted_arrays_part.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="next_greater_element_i_496" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/next_greater_element_i_496.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,19 +163,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.next_greater_element_i_496" />
-      <item itemvalue="Python.fibonacci_number_509" />
       <item itemvalue="Python.binary_number_with_alternating_bits_693_part2" />
       <item itemvalue="Python.median_of_two_sorted_arrays_part" />
       <item itemvalue="Python.subsets_78" />
+      <item itemvalue="Python.bag_question" />
+      <item itemvalue="Python.count_binary_substrings_696" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_binary_substrings_696" />
+        <item itemvalue="Python.bag_question" />
         <item itemvalue="Python.subsets_78" />
         <item itemvalue="Python.median_of_two_sorted_arrays_part" />
         <item itemvalue="Python.binary_number_with_alternating_bits_693_part2" />
-        <item itemvalue="Python.fibonacci_number_509" />
-        <item itemvalue="Python.next_greater_element_i_496" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +189,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560309655558</updated>
-      <workItem from="1590562210865" duration="14178000" />
+      <workItem from="1590562210865" duration="15308000" />
+      <workItem from="1590720535013" duration="726000" />
+      <workItem from="1590850315181" duration="3356000" />
+      <workItem from="1590979448362" duration="3405000" />
     </task>
     <servers />
   </component>
@@ -199,25 +200,39 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="316" key="GridCell.Tab.0.bottom" timestamp="1590657142765">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1638" height="239" key="GridCell.Tab.0.bottom" timestamp="1591025490409">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1590657142765" />
-    <state width="1638" height="316" key="GridCell.Tab.0.center" timestamp="1590657142764">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1638" height="239" key="GridCell.Tab.0.bottom/0.23.1680.941@0.23.1680.941" timestamp="1591025490409" />
+    <state width="1638" height="126" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1590852712637" />
+    <state width="1638" height="126" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1590854941113" />
+    <state width="1638" height="239" key="GridCell.Tab.0.center" timestamp="1591025490408">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1590657142764" />
-    <state width="1638" height="316" key="GridCell.Tab.0.left" timestamp="1590657142763">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1638" height="239" key="GridCell.Tab.0.center/0.23.1680.941@0.23.1680.941" timestamp="1591025490408" />
+    <state width="1638" height="126" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1590852712636" />
+    <state width="1638" height="126" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1590854941112" />
+    <state width="1638" height="239" key="GridCell.Tab.0.left" timestamp="1591025490408">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1590657142763" />
-    <state width="1638" height="316" key="GridCell.Tab.0.right" timestamp="1590657142764">
-      <screen x="0" y="23" width="1680" height="947" />
+    <state width="1638" height="239" key="GridCell.Tab.0.left/0.23.1680.941@0.23.1680.941" timestamp="1591025490408" />
+    <state width="1638" height="126" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1590852712635" />
+    <state width="1638" height="126" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1590854941111" />
+    <state width="1638" height="239" key="GridCell.Tab.0.right" timestamp="1591025490409">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state width="1638" height="316" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1590657142764" />
+    <state width="1638" height="239" key="GridCell.Tab.0.right/0.23.1680.941@0.23.1680.941" timestamp="1591025490409" />
+    <state width="1638" height="126" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1590852712636" />
+    <state width="1638" height="126" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1590854941112" />
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1590850357077">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.944@0.23.1680.944" timestamp="1590850357077" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$subsets_78.coverage" NAME="subsets_78 Coverage Results" MODIFIED="1590657142752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$count_binary_substrings_696.coverage" NAME="count_binary_substrings_696 Coverage Results" MODIFIED="1591025490398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$bag_question.coverage" NAME="bag_question Coverage Results" MODIFIED="1590852458647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$median_of_two_sorted_arrays_part.coverage" NAME="median_of_two_sorted_arrays_part Coverage Results" MODIFIED="1590654891226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="masterDetails">
