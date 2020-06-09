@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/binary_search_704.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/design_hashset_705.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +196,8 @@
       <workItem from="1591065098953" duration="5400000" />
       <workItem from="1591232355518" duration="814000" />
       <workItem from="1591317647331" duration="6482000" />
-      <workItem from="1591579239270" duration="854000" />
+      <workItem from="1591579239270" duration="2130000" />
+      <workItem from="1591712216267" duration="1498000" />
     </task>
     <servers />
   </component>
@@ -236,10 +237,11 @@
     <state width="1638" height="241" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1591319990749" />
     <state width="1638" height="387" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1591420796077" />
     <state width="1638" height="387" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591419356565" />
-    <state x="505" y="230" width="670" height="676" key="search.everywhere.popup" timestamp="1590850357077">
-      <screen x="0" y="23" width="1680" height="944" />
+    <state x="505" y="231" width="670" height="680" key="search.everywhere.popup" timestamp="1591722693665">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.944@0.23.1680.944" timestamp="1590850357077" />
+    <state x="505" y="231" width="670" height="680" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1591722693665" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$degree_of_an_array_697.coverage" NAME="degree_of_an_array_697 Coverage Results" MODIFIED="1591068345623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
