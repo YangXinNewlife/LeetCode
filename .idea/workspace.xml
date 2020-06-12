@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/design_hashmap_706.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/to_lower_case_709.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,7 +197,8 @@
       <workItem from="1591232355518" duration="814000" />
       <workItem from="1591317647331" duration="6482000" />
       <workItem from="1591579239270" duration="2130000" />
-      <workItem from="1591712216267" duration="3097000" />
+      <workItem from="1591712216267" duration="3343000" />
+      <workItem from="1591923814945" duration="532000" />
     </task>
     <servers />
   </component>
