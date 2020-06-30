@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/min_cost_climbing_stairs_746.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/largest_number_at_least_twice_of_others_747.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -202,7 +202,8 @@
       <workItem from="1592793033421" duration="598000" />
       <workItem from="1592837232393" duration="5805000" />
       <workItem from="1593312174314" duration="2306000" />
-      <workItem from="1593400467148" duration="3129000" />
+      <workItem from="1593400467148" duration="3286000" />
+      <workItem from="1593532491317" duration="1759000" />
     </task>
     <servers />
   </component>
