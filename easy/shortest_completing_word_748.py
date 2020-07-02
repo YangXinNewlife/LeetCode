@@ -7,6 +7,7 @@ Solutions:
 licensePlate: 输入的参照字符串
 words：输入的字符串列表
 要求只保留英文小写字母，然后返回words中包含licensePlate的最短的元素即可；
+这里使用集合的方法Counter去统计每个word的字母出现频次，依次去对比即可；
 """
 
 
@@ -24,14 +25,3 @@ class ShortestCompletingWord(object):
                     break
             if flag == 0:
                 return i
-
-
-
-
-
-
-
-
-
-
-
