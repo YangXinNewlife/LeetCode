@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/toeplitz_matrix_766.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/jewels_and_stones_771.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +208,8 @@
       <workItem from="1593744429716" duration="1898000" />
       <workItem from="1594082834625" duration="1073000" />
       <workItem from="1594088341140" duration="6199000" />
-      <workItem from="1594198502387" duration="636000" />
+      <workItem from="1594198502387" duration="1351000" />
+      <workItem from="1594607076698" duration="1397000" />
     </task>
     <servers />
   </component>
