@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/rotated_digits_788.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/rotate_string_796.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -211,7 +211,8 @@
       <workItem from="1594198502387" duration="1351000" />
       <workItem from="1594607076698" duration="1526000" />
       <workItem from="1594713106498" duration="1173000" />
-      <workItem from="1594827858439" duration="2786000" />
+      <workItem from="1594827858439" duration="2984000" />
+      <workItem from="1594869852827" duration="1193000" />
     </task>
     <servers />
   </component>
