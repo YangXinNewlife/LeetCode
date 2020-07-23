@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/number_of_lines_to_write_string_806.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/subdomain_visit_count_811.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +214,8 @@
       <workItem from="1594827858439" duration="2984000" />
       <workItem from="1594869852827" duration="1304000" />
       <workItem from="1594974662839" duration="3727000" />
-      <workItem from="1595213796384" duration="1171000" />
+      <workItem from="1595213796384" duration="1205000" />
+      <workItem from="1595294214994" duration="2989000" />
     </task>
     <servers />
   </component>
