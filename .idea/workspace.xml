@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/largest_triangle_area_812.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/most_common_word_819.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.largest_triangle_area_812">
+  <component name="RunManager" selected="Python.most_common_word_819">
     <configuration name="largest_triangle_area_812" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="longest_word_in_dictionary_720" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="most_common_word_819" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/longest_word_in_dictionary_720.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/most_common_word_819.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,19 +158,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.longest_word_in_dictionary_720" />
       <item itemvalue="Python.self_dividing_numbers_728" />
       <item itemvalue="Python.shortest_completing_word_748" />
       <item itemvalue="Python.sum_number" />
       <item itemvalue="Python.largest_triangle_area_812" />
+      <item itemvalue="Python.most_common_word_819" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.most_common_word_819" />
         <item itemvalue="Python.largest_triangle_area_812" />
         <item itemvalue="Python.sum_number" />
         <item itemvalue="Python.shortest_completing_word_748" />
         <item itemvalue="Python.self_dividing_numbers_728" />
-        <item itemvalue="Python.longest_word_in_dictionary_720" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,8 @@
       <workItem from="1595294214994" duration="3777000" />
       <workItem from="1595558242291" duration="860000" />
       <workItem from="1595853274215" duration="232000" />
-      <workItem from="1595930012503" duration="3185000" />
+      <workItem from="1595930012503" duration="3554000" />
+      <workItem from="1595988837771" duration="2743000" />
     </task>
     <servers />
   </component>
@@ -226,65 +227,67 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="274" key="GridCell.Tab.0.bottom" timestamp="1595938708918">
+    <state width="1638" height="333" key="GridCell.Tab.0.bottom" timestamp="1595992367949">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.941@0.23.1680.941" timestamp="1592385729469" />
     <state width="1638" height="422" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1592583845888" />
     <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1594096623663" />
     <state width="1638" height="271" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1594097149521" />
-    <state width="1638" height="274" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1595938708918" />
+    <state width="1638" height="333" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1595992367949" />
     <state width="1638" height="278" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1593684345925" />
     <state width="1638" height="387" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591419356565" />
-    <state width="1638" height="274" key="GridCell.Tab.0.center" timestamp="1595938708917">
+    <state width="1638" height="333" key="GridCell.Tab.0.center" timestamp="1595992367948">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.941@0.23.1680.941" timestamp="1592385729468" />
     <state width="1638" height="422" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1592583845887" />
     <state width="1638" height="316" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1594096623662" />
     <state width="1638" height="271" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1594097149521" />
-    <state width="1638" height="274" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1595938708917" />
+    <state width="1638" height="333" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1595992367948" />
     <state width="1638" height="278" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1593684345924" />
     <state width="1638" height="387" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591419356564" />
-    <state width="1638" height="274" key="GridCell.Tab.0.left" timestamp="1595938708917">
+    <state width="1638" height="333" key="GridCell.Tab.0.left" timestamp="1595992367947">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.941@0.23.1680.941" timestamp="1592385729468" />
     <state width="1638" height="422" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1592583845887" />
     <state width="1638" height="316" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1594096623661" />
     <state width="1638" height="271" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1594097149520" />
-    <state width="1638" height="274" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1595938708917" />
+    <state width="1638" height="333" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1595992367947" />
     <state width="1638" height="278" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1593684345924" />
     <state width="1638" height="387" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591419356563" />
-    <state width="1638" height="274" key="GridCell.Tab.0.right" timestamp="1595938708918">
+    <state width="1638" height="333" key="GridCell.Tab.0.right" timestamp="1595992367949">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.941@0.23.1680.941" timestamp="1592385729469" />
     <state width="1638" height="422" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1592583845888" />
     <state width="1638" height="316" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1594096623662" />
     <state width="1638" height="271" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1594097149521" />
-    <state width="1638" height="274" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1595938708918" />
+    <state width="1638" height="333" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1595992367949" />
     <state width="1638" height="278" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1593684345925" />
     <state width="1638" height="387" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591419356565" />
-    <state x="505" y="231" width="670" height="680" key="search.everywhere.popup" timestamp="1591722693665">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state x="505" y="232" width="670" height="683" key="search.everywhere.popup" timestamp="1595988938988">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="505" y="230" width="670" height="676" key="search.everywhere.popup/0.23.1680.944@0.23.1680.944" timestamp="1590850357077" />
     <state x="505" y="231" width="670" height="680" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1591722693665" />
+    <state x="505" y="232" width="670" height="683" key="search.everywhere.popup/0.23.1680.952@0.23.1680.952" timestamp="1595988938988" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/LeetCode$degree_of_an_array_697.coverage" NAME="degree_of_an_array_697 Coverage Results" MODIFIED="1591068345623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$longest_word_in_dictionary_720.coverage" NAME="longest_word_in_dictionary_720 Coverage Results" MODIFIED="1592583551317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$subsets_78.coverage" NAME="subsets_78 Coverage Results" MODIFIED="1590657142752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$kth_largest_element_in_a_stream_703.coverage" NAME="kth_largest_element_in_a_stream_703 Coverage Results" MODIFIED="1591419186760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$most_common_word_819.coverage" NAME="most_common_word_819 Coverage Results" MODIFIED="1595992367936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$date_sub.coverage" NAME="date_sub Coverage Results" MODIFIED="1592385294498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$shortest_completing_word_748.coverage" NAME="shortest_completing_word_748 Coverage Results" MODIFIED="1593677161981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$largest_triangle_area_812.coverage" NAME="largest_triangle_area_812 Coverage Results" MODIFIED="1595938708909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$degree_of_an_array_697.coverage" NAME="degree_of_an_array_697 Coverage Results" MODIFIED="1591068345623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$longest_word_in_dictionary_720.coverage" NAME="longest_word_in_dictionary_720 Coverage Results" MODIFIED="1592583551317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$count_binary_substrings_696.coverage" NAME="count_binary_substrings_696 Coverage Results" MODIFIED="1591025490398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$self_dividing_numbers_728.coverage" NAME="self_dividing_numbers_728 Coverage Results" MODIFIED="1592840204273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$bag_question.coverage" NAME="bag_question Coverage Results" MODIFIED="1590852458647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$median_of_two_sorted_arrays_part.coverage" NAME="median_of_two_sorted_arrays_part Coverage Results" MODIFIED="1590654891226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
-    <SUITE FILE_PATH="coverage/LeetCode$largest_triangle_area_812.coverage" NAME="largest_triangle_area_812 Coverage Results" MODIFIED="1595938708909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="masterDetails">
     <states>
