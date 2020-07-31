@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/most_common_word_819.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/shortest_distance_to_a_character_821.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.most_common_word_819">
+  <component name="RunManager" selected="Python.shortest_distance_to_a_character_821">
     <configuration name="largest_triangle_area_812" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,28 +91,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="self_dividing_numbers_728" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/self_dividing_numbers_728.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="shortest_completing_word_748" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +105,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/shortest_completing_word_748.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="shortest_distance_to_a_character_821" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/shortest_distance_to_a_character_821.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,19 +158,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.self_dividing_numbers_728" />
       <item itemvalue="Python.shortest_completing_word_748" />
       <item itemvalue="Python.sum_number" />
       <item itemvalue="Python.largest_triangle_area_812" />
       <item itemvalue="Python.most_common_word_819" />
+      <item itemvalue="Python.shortest_distance_to_a_character_821" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.shortest_distance_to_a_character_821" />
         <item itemvalue="Python.most_common_word_819" />
         <item itemvalue="Python.largest_triangle_area_812" />
         <item itemvalue="Python.sum_number" />
         <item itemvalue="Python.shortest_completing_word_748" />
-        <item itemvalue="Python.self_dividing_numbers_728" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,8 @@
       <workItem from="1595558242291" duration="860000" />
       <workItem from="1595853274215" duration="232000" />
       <workItem from="1595930012503" duration="3554000" />
-      <workItem from="1595988837771" duration="2743000" />
+      <workItem from="1595988837771" duration="3500000" />
+      <workItem from="1596183345573" duration="2023000" />
     </task>
     <servers />
   </component>
@@ -227,46 +228,46 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="333" key="GridCell.Tab.0.bottom" timestamp="1595992367949">
+    <state width="1638" height="331" key="GridCell.Tab.0.bottom" timestamp="1596184318131">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.bottom/0.23.1680.941@0.23.1680.941" timestamp="1592385729469" />
     <state width="1638" height="422" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1592583845888" />
     <state width="1638" height="316" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1594096623663" />
     <state width="1638" height="271" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1594097149521" />
-    <state width="1638" height="333" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1595992367949" />
+    <state width="1638" height="331" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1596184318131" />
     <state width="1638" height="278" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1593684345925" />
-    <state width="1638" height="387" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591419356565" />
-    <state width="1638" height="333" key="GridCell.Tab.0.center" timestamp="1595992367948">
+    <state width="1638" height="333" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1596010424072" />
+    <state width="1638" height="331" key="GridCell.Tab.0.center" timestamp="1596184318130">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.center/0.23.1680.941@0.23.1680.941" timestamp="1592385729468" />
     <state width="1638" height="422" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1592583845887" />
     <state width="1638" height="316" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1594096623662" />
     <state width="1638" height="271" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1594097149521" />
-    <state width="1638" height="333" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1595992367948" />
+    <state width="1638" height="331" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1596184318130" />
     <state width="1638" height="278" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1593684345924" />
-    <state width="1638" height="387" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591419356564" />
-    <state width="1638" height="333" key="GridCell.Tab.0.left" timestamp="1595992367947">
+    <state width="1638" height="333" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1596010424071" />
+    <state width="1638" height="331" key="GridCell.Tab.0.left" timestamp="1596184318130">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.left/0.23.1680.941@0.23.1680.941" timestamp="1592385729468" />
     <state width="1638" height="422" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1592583845887" />
     <state width="1638" height="316" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1594096623661" />
     <state width="1638" height="271" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1594097149520" />
-    <state width="1638" height="333" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1595992367947" />
+    <state width="1638" height="331" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1596184318130" />
     <state width="1638" height="278" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1593684345924" />
-    <state width="1638" height="387" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591419356563" />
-    <state width="1638" height="333" key="GridCell.Tab.0.right" timestamp="1595992367949">
+    <state width="1638" height="333" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1596010424071" />
+    <state width="1638" height="331" key="GridCell.Tab.0.right" timestamp="1596184318131">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1638" height="262" key="GridCell.Tab.0.right/0.23.1680.941@0.23.1680.941" timestamp="1592385729469" />
     <state width="1638" height="422" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1592583845888" />
     <state width="1638" height="316" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1594096623662" />
     <state width="1638" height="271" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1594097149521" />
-    <state width="1638" height="333" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1595992367949" />
+    <state width="1638" height="331" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1596184318131" />
     <state width="1638" height="278" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1593684345925" />
-    <state width="1638" height="387" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591419356565" />
+    <state width="1638" height="333" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1596010424072" />
     <state x="505" y="232" width="670" height="683" key="search.everywhere.popup" timestamp="1595988938988">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
@@ -275,6 +276,7 @@
     <state x="505" y="232" width="670" height="683" key="search.everywhere.popup/0.23.1680.952@0.23.1680.952" timestamp="1595988938988" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCode$shortest_distance_to_a_character_821.coverage" NAME="shortest_distance_to_a_character_821 Coverage Results" MODIFIED="1596184318122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$subsets_78.coverage" NAME="subsets_78 Coverage Results" MODIFIED="1590657142752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$kth_largest_element_in_a_stream_703.coverage" NAME="kth_largest_element_in_a_stream_703 Coverage Results" MODIFIED="1591419186760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$most_common_word_819.coverage" NAME="most_common_word_819 Coverage Results" MODIFIED="1595992367936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
