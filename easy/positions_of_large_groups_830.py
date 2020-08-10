@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+__author__ = 'yangxin_ryan'
 """
 Solutions:
 题目的意思比较简单，就是找出来最长的相同的字符串，字符的连续长度要大于等于3。
