@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/flipping_an_image_832.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/rectangle_overlap_836.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -225,7 +225,8 @@
       <workItem from="1596812605006" duration="610000" />
       <workItem from="1597026817549" duration="2318000" />
       <workItem from="1597158183040" duration="766000" />
-      <workItem from="1597717190898" duration="2382000" />
+      <workItem from="1597717190898" duration="2580000" />
+      <workItem from="1597993566925" duration="3076000" />
     </task>
     <servers />
   </component>
