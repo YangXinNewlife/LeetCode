@@ -14,13 +14,14 @@ A 3 x 3 magic square is a 3 x 3 grid filled with distinct numbers from 1 to 9 su
 class MagicSquaresInGrid(object):
 
     def numMagicSquaresInside(self, grid: List[List[int]]) -> int:
-        res, n = 0, len(grid)
-        isMag = ['16729438', '18349276', '34927618', '38167294', '72943816', '76183492', '92761834', '94381672']
+        result, n = 0, len(grid)
+        is_magic = ['16729438', '18349276', '34927618', '38167294', '72943816', '76183492', '92761834', '94381672']
         for i in range(1, n - 1):
             for j in range(1, n - 1):
                 if grid[i][j] == 5:
                     tmp = ''.join(map(str, [grid[i - 1][j], grid[i - 1][j + 1], grid[i][j + 1], grid[i + 1][j + 1],
                                             grid[i + 1][j],
                                             grid[i + 1][j - 1], grid[i][j - 1], grid[i - 1][j - 1]]))
-                    res += 1 if tmp in isMag else 0
-        return res
+                    if tmp in is_magic:
+                        result += 1
+        return result
