@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/backspace_string_compare_844.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/peak_index_in_a_mountain_array_852.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,7 +228,8 @@
       <workItem from="1597717190898" duration="2580000" />
       <workItem from="1597993566925" duration="3158000" />
       <workItem from="1598803128408" duration="3844000" />
-      <workItem from="1601131076289" duration="2654000" />
+      <workItem from="1601131076289" duration="3884000" />
+      <workItem from="1601960933934" duration="1191000" />
     </task>
     <servers />
   </component>
