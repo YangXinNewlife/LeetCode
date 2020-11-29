@@ -17,7 +17,7 @@ class LemonadeChange(object):
             if i == 5:
                 changes[5] += 1
             elif i == 10:
-                if changes[5] == 10:
+                if changes[5] == 0:
                     return False
                 else:
                     changes[10] += 1
