@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/easy/lemonade_change_860.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/lemonade_change_860.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/transpose_matrix_867.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +231,8 @@
       <workItem from="1601131076289" duration="3884000" />
       <workItem from="1601960933934" duration="1296000" />
       <workItem from="1604849265837" duration="1583000" />
-      <workItem from="1606576851388" duration="854000" />
+      <workItem from="1606576851388" duration="1035000" />
+      <workItem from="1609645042201" duration="1420000" />
     </task>
     <servers />
   </component>
