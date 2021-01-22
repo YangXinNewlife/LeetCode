@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/walking_robot_simulation_874.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/middle_of_the_linked_list_876.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -235,7 +235,8 @@
       <workItem from="1609645042201" duration="1555000" />
       <workItem from="1610031606469" duration="2071000" />
       <workItem from="1610292559498" duration="1915000" />
-      <workItem from="1610648395877" duration="3609000" />
+      <workItem from="1610648395877" duration="3940000" />
+      <workItem from="1611337045966" duration="875000" />
     </task>
     <servers />
   </component>
