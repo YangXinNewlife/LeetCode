@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/projection_area_of_3d_shapes_883.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/uncommon_words_from_two_sentences_884.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,7 +237,8 @@
       <workItem from="1610292559498" duration="1915000" />
       <workItem from="1610648395877" duration="3940000" />
       <workItem from="1611337045966" duration="1353000" />
-      <workItem from="1611589323899" duration="2904000" />
+      <workItem from="1611589323899" duration="3159000" />
+      <workItem from="1612364770744" duration="2287000" />
     </task>
     <servers />
   </component>
