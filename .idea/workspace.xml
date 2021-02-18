@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/groups_of_special_equivalent_strings_893.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/monotonic_array_896.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -240,7 +240,8 @@
       <workItem from="1611589323899" duration="3159000" />
       <workItem from="1612364770744" duration="2787000" />
       <workItem from="1613226051281" duration="2109000" />
-      <workItem from="1613473420395" duration="4471000" />
+      <workItem from="1613473420395" duration="4576000" />
+      <workItem from="1613666231201" duration="664000" />
     </task>
     <servers />
   </component>
