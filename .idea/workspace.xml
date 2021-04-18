@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/smallest_range_1_908.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/x_of_a_kind_in_a_deck_of_cards_914.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -245,7 +246,8 @@
       <workItem from="1613818426100" duration="1428000" />
       <workItem from="1617028211141" duration="1753000" />
       <workItem from="1617631349702" duration="1162000" />
-      <workItem from="1618059389012" duration="1445000" />
+      <workItem from="1618059389012" duration="1537000" />
+      <workItem from="1618716688656" duration="1267000" />
     </task>
     <servers />
   </component>
