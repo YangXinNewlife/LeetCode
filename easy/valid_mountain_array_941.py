@@ -20,9 +20,3 @@ class ValidMountainArray(object):
             j -= 1
         return 0 < i == j < arr_length - 1
 
-
-
-
-
-
-
