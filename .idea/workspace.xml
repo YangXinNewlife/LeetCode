@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/delete_columns_to_make_sorted_944.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/verifying_an_alien_dictionary_953.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/easy/valid_mountain_array_941.py" beforeDir="false" afterPath="$PROJECT_DIR$/easy/valid_mountain_array_941.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +255,8 @@
       <workItem from="1621954128920" duration="5231000" />
       <workItem from="1622957354439" duration="1830000" />
       <workItem from="1623512305598" duration="1292000" />
-      <workItem from="1623862090814" duration="725000" />
+      <workItem from="1623862090814" duration="890000" />
+      <workItem from="1624154052698" duration="1779000" />
     </task>
     <servers />
   </component>
