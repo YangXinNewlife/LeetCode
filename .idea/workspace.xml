@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/n_repeated_element_in_size_2n_array_961.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/dI_string_match_942.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -257,7 +257,10 @@
       <workItem from="1623512305598" duration="1292000" />
       <workItem from="1623862090814" duration="890000" />
       <workItem from="1624154052698" duration="2034000" />
-      <workItem from="1624374753814" duration="1825000" />
+      <workItem from="1624374753814" duration="1931000" />
+      <workItem from="1624977027815" duration="181000" />
+      <workItem from="1625064089587" duration="1804000" />
+      <workItem from="1625244237332" duration="204000" />
     </task>
     <servers />
   </component>
