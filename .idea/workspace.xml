@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/univalued_binary_tree_965.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/is_subsequence_392.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -262,7 +262,8 @@
       <workItem from="1625064089587" duration="1804000" />
       <workItem from="1625244237332" duration="424000" />
       <workItem from="1625281930479" duration="2150000" />
-      <workItem from="1625756098954" duration="1524000" />
+      <workItem from="1625756098954" duration="1724000" />
+      <workItem from="1626012098053" duration="1223000" />
     </task>
     <servers />
   </component>
@@ -286,6 +287,10 @@
       <screen x="0" y="23" width="1680" height="943" />
     </state>
     <state width="1638" height="330" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1622378485062" />
+    <state x="505" y="290" width="670" height="676" key="search.everywhere.popup" timestamp="1626015023429">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state x="505" y="290" width="670" height="676" key="search.everywhere.popup/0.23.1680.943@0.23.1680.943" timestamp="1626015023429" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$shortest_distance_to_a_character_821.coverage" NAME="shortest_distance_to_a_character_821 Coverage Results" MODIFIED="1596184318122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
