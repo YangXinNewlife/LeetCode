@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/is_subsequence_392.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/binary_tree_inorder_traversal_94.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +263,8 @@
       <workItem from="1625244237332" duration="424000" />
       <workItem from="1625281930479" duration="2150000" />
       <workItem from="1625756098954" duration="1724000" />
-      <workItem from="1626012098053" duration="1223000" />
+      <workItem from="1626012098053" duration="1906000" />
+      <workItem from="1626509983761" duration="1993000" />
     </task>
     <servers />
   </component>
