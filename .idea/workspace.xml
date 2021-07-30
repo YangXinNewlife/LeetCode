@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/teemo_attacking_495.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/largest_perimeter_triangle_976.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -266,7 +266,8 @@
       <workItem from="1626012098053" duration="1906000" />
       <workItem from="1626509983761" duration="2877000" />
       <workItem from="1627228471892" duration="1402000" />
-      <workItem from="1627574733606" duration="1320000" />
+      <workItem from="1627574733606" duration="1394000" />
+      <workItem from="1627656073066" duration="1337000" />
     </task>
     <servers />
   </component>
