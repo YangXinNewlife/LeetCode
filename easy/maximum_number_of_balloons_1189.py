@@ -8,7 +8,7 @@ Soultions:
 返回 str_count 这些中最少的即时凑齐的个数。
 """
 
-class MaximumNumberOfBalloons(object);
+class MaximumNumberOfBalloons(object):
 
     def maxNumberOfBalloons(self, text: str) -> int:
         str = 'balloon'
