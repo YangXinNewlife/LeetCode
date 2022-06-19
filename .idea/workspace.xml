@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/minimum_cost_to_move_chips_to_the_same_position_1217.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/split_a_string_in_balanced_strings_1221.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,12 +30,12 @@
     <session id="-2084815864">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="29" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.13" value="3" />
           <entry key="project.open.time.14" value="7" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="2" />
@@ -44,44 +44,35 @@
           <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="38" />
+          <entry key="py" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="38" />
+          <entry key="Python" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="12907" />
+          <entry key="py" value="13325" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="12907" />
+          <entry key="Python" value="13325" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/find_words_that_can_be_formed_by_characters_1160.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/prime_arrangements_1175.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -136,11 +127,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/minimum_cost_to_move_chips_to_the_same_position_1217.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+            <state relative-caret-position="277">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/split_a_string_in_balanced_strings_1221.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -214,6 +214,7 @@
         <option value="$PROJECT_DIR$/easy/minimum_absolute_difference_1200.py" />
         <option value="$PROJECT_DIR$/easy/unique_number_of_occurrences_1207.py" />
         <option value="$PROJECT_DIR$/easy/minimum_cost_to_move_chips_to_the_same_position_1217.py" />
+        <option value="$PROJECT_DIR$/easy/split_a_string_in_balanced_strings_1221.py" />
       </list>
     </option>
   </component>
@@ -223,10 +224,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="374" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="335" />
     <option name="width" value="1440" />
-    <option name="height" value="800" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectId" id="1cToyxGOulURvgMGGUDB9BQWwZs" />
   <component name="ProjectView">
@@ -507,15 +508,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="800" extended-state="6" />
+    <frame x="0" y="335" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3018732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30691642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35123366" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35123366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -524,7 +525,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.36139333" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.36151603" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -821,6 +822,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/easy/unique_number_of_occurrences_1207.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -836,17 +844,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/unique_number_of_occurrences_1207.py">
+    <entry file="file://$PROJECT_DIR$/easy/minimum_cost_to_move_chips_to_the_same_position_1217.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="277">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/minimum_cost_to_move_chips_to_the_same_position_1217.py">
+    <entry file="file://$PROJECT_DIR$/easy/split_a_string_in_balanced_strings_1221.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="145">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
