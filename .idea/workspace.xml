@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/maximum_69_number_1323.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +27,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$element_appearing_more_than_25__in_sorted_array_1287.coverage" NAME="element_appearing_more_than_25%_in_sorted_array_1287 Coverage Results" MODIFIED="1664764026299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$fibonacci_number_509.coverage" NAME="fibonacci_number_509 Coverage Results" MODIFIED="1572230386752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$day_of_the_week_1185.coverage" NAME="day_of_the_week_1185 Coverage Results" MODIFIED="1650719650686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$rank_transform_of_an_array_1331.coverage" NAME="rank_transform_of_an_array_1331 Coverage Results" MODIFIED="1665420567318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_winner_on_a_tic_tac_toe_game_1275.coverage" NAME="find_winner_on_a_tic_tac_toe_game_1275 Coverage Results" MODIFIED="1664553770783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$partition_array_into_three_parts_with_equal_sum_1013.coverage" NAME="partition_array_into_three_parts_with_equal_sum_1013 Coverage Results" MODIFIED="1638285203531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
@@ -55,38 +56,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="55" />
+          <entry key="py" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="55" />
+          <entry key="Python" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="20270" />
+          <entry key="py" value="20862" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="20270" />
+          <entry key="Python" value="20862" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/element_appearing_more_than_25%_in_sorted_array_1287.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/convert_binary_number_in_a_linked_list_to_integer_1290.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -150,11 +142,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/maximum_69_number_1323.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="228">
+              <caret line="12" lean-forward="true" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -185,7 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/add_to_array_form_of_integer_989.py" />
         <option value="$PROJECT_DIR$/easy/cousins_in_binary_tree_993.py" />
         <option value="$PROJECT_DIR$/easy/find_the_town_judge_997.py" />
         <option value="$PROJECT_DIR$/easy/available_captures_for_rook_999.py" />
@@ -236,6 +236,7 @@
         <option value="$PROJECT_DIR$/easy/decompress_run-Length_encoded_list_1313.py" />
         <option value="$PROJECT_DIR$/easy/convert_integer_to_the_sum_of_two_no_zero_integers_1317.py" />
         <option value="$PROJECT_DIR$/easy/maximum_69_number_1323.py" />
+        <option value="$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py" />
       </list>
     </option>
   </component>
@@ -245,8 +246,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="350" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -303,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.decryp_string_from_alphabet_to_integer_mapping_1309">
+  <component name="RunManager" selected="Python.rank_transform_of_an_array_1331">
     <configuration name="decryp_string_from_alphabet_to_integer_mapping_1309" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -392,7 +393,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minimum_cost_to_move_chips_to_the_same_position_1217" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rank_transform_of_an_array_1331" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,7 +406,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/minimum_cost_to_move_chips_to_the_same_position_1217.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,19 +416,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.minimum_cost_to_move_chips_to_the_same_position_1217" />
       <item itemvalue="Python.find_winner_on_a_tic_tac_toe_game_1275" />
       <item itemvalue="Python.element_appearing_more_than_25%_in_sorted_array_1287" />
       <item itemvalue="Python.find_numbers_with_even_number_of_digits_1295" />
       <item itemvalue="Python.decryp_string_from_alphabet_to_integer_mapping_1309" />
+      <item itemvalue="Python.rank_transform_of_an_array_1331" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rank_transform_of_an_array_1331" />
         <item itemvalue="Python.decryp_string_from_alphabet_to_integer_mapping_1309" />
         <item itemvalue="Python.find_numbers_with_even_number_of_digits_1295" />
         <item itemvalue="Python.element_appearing_more_than_25%_in_sorted_array_1287" />
         <item itemvalue="Python.find_winner_on_a_tic_tac_toe_game_1275" />
-        <item itemvalue="Python.minimum_cost_to_move_chips_to_the_same_position_1217" />
       </list>
     </recent_temporary>
   </component>
@@ -529,7 +530,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="794" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26008645" />
@@ -537,7 +538,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34985423" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35139093" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -546,7 +547,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.40233237" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.40233237" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -605,13 +606,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/available_captures_for_rook_999.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/find_common_characters_1002.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="817">
@@ -958,8 +952,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/maximum_69_number_1323.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
         </state>
       </provider>
     </entry>
