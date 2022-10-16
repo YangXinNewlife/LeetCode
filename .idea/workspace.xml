@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/check_if_n_and_its_double_exist_1346.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/count_negative_numbers_in_a_sorted_matrix_1352.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,6 +25,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$decryp_string_from_alphabet_to_integer_mapping_1309.coverage" NAME="decryp_string_from_alphabet_to_integer_mapping_1309 Coverage Results" MODIFIED="1664992028604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$heaters_475.coverage" NAME="heaters_475 Coverage Results" MODIFIED="1569292299258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_common_characters_1002.coverage" NAME="find_common_characters_1002 Coverage Results" MODIFIED="1635610402980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$count_negative_numbers_in_a_sorted_matrix_1352.coverage" NAME="count_negative_numbers_in_a_sorted_matrix_1352 Coverage Results" MODIFIED="1665933848947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$element_appearing_more_than_25__in_sorted_array_1287.coverage" NAME="element_appearing_more_than_25%_in_sorted_array_1287 Coverage Results" MODIFIED="1664764026299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$fibonacci_number_509.coverage" NAME="fibonacci_number_509 Coverage Results" MODIFIED="1572230386752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$day_of_the_week_1185.coverage" NAME="day_of_the_week_1185 Coverage Results" MODIFIED="1650719650686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -36,12 +37,12 @@
     <session id="-2084815864">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="40" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="4" />
-          <entry key="project.open.time.13" value="4" />
+          <entry key="project.open.time.13" value="5" />
           <entry key="project.open.time.14" value="9" />
           <entry key="project.open.time.15" value="6" />
           <entry key="project.open.time.16" value="2" />
@@ -51,31 +52,31 @@
           <entry key="project.open.time.5" value="5" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="60" />
+          <entry key="py" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="60" />
+          <entry key="Python" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="5" />
-          <entry key="py" value="22644" />
+          <entry key="py" value="23185" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="22644" />
+          <entry key="Python" value="23185" />
         </counts>
       </usages-collector>
     </session>
@@ -83,19 +84,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/decryp_string_from_alphabet_to_integer_mapping_1309.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/decompress_run-Length_encoded_list_1313.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="475">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -104,7 +96,7 @@
         <entry file="file://$PROJECT_DIR$/easy/convert_integer_to_the_sum_of_two_no_zero_integers_1317.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
-              <caret line="13" lean-forward="true" selection-end-line="18" />
+              <caret line="13" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -113,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/easy/maximum_69_number_1323.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" lean-forward="true" selection-end-line="28" />
+              <caret line="12" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -122,7 +114,7 @@
         <entry file="file://$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
-              <caret line="16" column="20" lean-forward="true" selection-end-line="30" />
+              <caret line="16" column="20" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -131,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/easy/remove_palindromic_subsequences_1332.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -139,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/the_k_weakest_rows_in_a_matrix_1337.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="21" column="21" lean-forward="true" selection-end-line="32" />
+            <state relative-caret-position="399">
+              <caret line="21" column="21" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -148,17 +140,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/number_of_steps_to_reduce_a_number_to_zero_1342.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="342">
               <caret line="18" column="20" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/check_if_n_and_its_double_exist_1346.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+            <state relative-caret-position="19">
+              <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/count_negative_numbers_in_a_sorted_matrix_1352.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -189,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/complement_of_base_10_integer_1009.py" />
         <option value="$PROJECT_DIR$/easy/partition_array_into_three_parts_with_equal_sum_1013.py" />
         <option value="$PROJECT_DIR$/easy/binary_prefix_divisible_by_5_1018.py" />
         <option value="$PROJECT_DIR$/easy/remove_outermost_parentheses_1021.py" />
@@ -240,6 +240,7 @@
         <option value="$PROJECT_DIR$/easy/the_k_weakest_rows_in_a_matrix_1337.py" />
         <option value="$PROJECT_DIR$/easy/number_of_steps_to_reduce_a_number_to_zero_1342.py" />
         <option value="$PROJECT_DIR$/easy/check_if_n_and_its_double_exist_1346.py" />
+        <option value="$PROJECT_DIR$/easy/count_negative_numbers_in_a_sorted_matrix_1352.py" />
       </list>
     </option>
   </component>
@@ -307,7 +308,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.the_k_weakest_rows_in_a_matrix_1337">
+  <component name="RunManager" selected="Python.count_negative_numbers_in_a_sorted_matrix_1352">
+    <configuration name="count_negative_numbers_in_a_sorted_matrix_1352" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/count_negative_numbers_in_a_sorted_matrix_1352.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="decryp_string_from_alphabet_to_integer_mapping_1309" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -322,28 +345,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/decryp_string_from_alphabet_to_integer_mapping_1309.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="element_appearing_more_than_25%_in_sorted_array_1287" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/element_appearing_more_than_25%_in_sorted_array_1287.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -419,19 +420,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.element_appearing_more_than_25%_in_sorted_array_1287" />
       <item itemvalue="Python.find_numbers_with_even_number_of_digits_1295" />
       <item itemvalue="Python.decryp_string_from_alphabet_to_integer_mapping_1309" />
       <item itemvalue="Python.rank_transform_of_an_array_1331" />
       <item itemvalue="Python.the_k_weakest_rows_in_a_matrix_1337" />
+      <item itemvalue="Python.count_negative_numbers_in_a_sorted_matrix_1352" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.count_negative_numbers_in_a_sorted_matrix_1352" />
         <item itemvalue="Python.the_k_weakest_rows_in_a_matrix_1337" />
         <item itemvalue="Python.rank_transform_of_an_array_1331" />
         <item itemvalue="Python.decryp_string_from_alphabet_to_integer_mapping_1309" />
         <item itemvalue="Python.find_numbers_with_even_number_of_digits_1295" />
-        <item itemvalue="Python.element_appearing_more_than_25%_in_sorted_array_1287" />
       </list>
     </recent_temporary>
   </component>
@@ -533,15 +534,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="25" width="1440" height="794" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26008645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2644092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35139093" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3586006" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,7 +551,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.44363105" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.4431487" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -609,13 +610,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/binary_prefix_divisible_by_5_1018.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/remove_outermost_parentheses_1021.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -903,6 +897,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/easy/decompress_run-Length_encoded_list_1313.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/convert_integer_to_the_sum_of_two_no_zero_integers_1317.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/maximum_69_number_1323.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="20" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/remove_palindromic_subsequences_1332.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/the_k_weakest_rows_in_a_matrix_1337.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="21" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/number_of_steps_to_reduce_a_number_to_zero_1342.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="20" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -911,59 +954,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/easy/decompress_run-Length_encoded_list_1313.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/convert_integer_to_the_sum_of_two_no_zero_integers_1317.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/maximum_69_number_1323.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" lean-forward="true" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/rank_transform_of_an_array_1331.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="20" lean-forward="true" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/remove_palindromic_subsequences_1332.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/the_k_weakest_rows_in_a_matrix_1337.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="21" column="21" lean-forward="true" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/number_of_steps_to_reduce_a_number_to_zero_1342.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="20" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/check_if_n_and_its_double_exist_1346.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="19">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/count_negative_numbers_in_a_sorted_matrix_1352.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
