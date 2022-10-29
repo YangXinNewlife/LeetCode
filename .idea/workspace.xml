@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/create_target_array_in_the_given_order_1389.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/find_lucky_integer_in_an_array_1394.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,6 +20,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$remove_outermost_parentheses_1021.coverage" NAME="remove_outermost_parentheses_1021 Coverage Results" MODIFIED="1640101441856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$license_key_formatting_482.coverage" NAME="license_key_formatting_482 Coverage Results" MODIFIED="1569725597299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$maximum_subarray_53.coverage" NAME="maximum_subarray_53 Coverage Results" MODIFIED="1560312484612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$find_lucky_integer_in_an_array_1394.coverage" NAME="find_lucky_integer_in_an_array_1394 Coverage Results" MODIFIED="1667057710333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$binary_number_with_alternating_bits_693_part2.coverage" NAME="binary_number_with_alternating_bits_693_part2 Coverage Results" MODIFIED="1590485688539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$minimum_cost_to_move_chips_to_the_same_position_1217.coverage" NAME="minimum_cost_to_move_chips_to_the_same_position_1217 Coverage Results" MODIFIED="1664022972400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$decryp_string_from_alphabet_to_integer_mapping_1309.coverage" NAME="decryp_string_from_alphabet_to_integer_mapping_1309 Coverage Results" MODIFIED="1664992028604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -59,40 +60,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="71" />
+          <entry key="py" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="71" />
+          <entry key="Python" value="72" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="26570" />
+          <entry key="py" value="26919" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="26570" />
+          <entry key="Python" value="26919" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/number_of_days_between_two_dates_1360.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="27" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/how_many_numbers_are_smaller_than_the_current_number_1365.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -147,11 +139,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/create_target_array_in_the_given_order_1389.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="23" lean-forward="true" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/find_lucky_integer_in_an_array_1394.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -191,7 +192,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/greatest_common_divisor_of_strings_1071.py" />
         <option value="$PROJECT_DIR$/easy/occurrences_after_bigram_1078.py" />
         <option value="$PROJECT_DIR$/easy/duplicate_zeros_1089.py" />
         <option value="$PROJECT_DIR$/easy/distribute_candies_to_people_1103.py" />
@@ -242,6 +242,7 @@
         <option value="$PROJECT_DIR$/easy/lucky_numbers_in_a_matrix_1380.py" />
         <option value="$PROJECT_DIR$/easy/find_the_distance_value_between_two_arrays_1385.py" />
         <option value="$PROJECT_DIR$/easy/create_target_array_in_the_given_order_1389.py" />
+        <option value="$PROJECT_DIR$/easy/find_lucky_integer_in_an_array_1394.py" />
       </list>
     </option>
   </component>
@@ -252,7 +253,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="48" />
+    <option name="y" value="36" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -312,7 +313,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.lucky_numbers_in_a_matrix_1380">
+  <component name="RunManager" selected="Python.find_lucky_integer_in_an_array_1394">
     <configuration name="count_negative_numbers_in_a_sorted_matrix_1352" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,7 +336,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decryp_string_from_alphabet_to_integer_mapping_1309" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="find_lucky_integer_in_an_array_1394" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -348,7 +349,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/decryp_string_from_alphabet_to_integer_mapping_1309.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/find_lucky_integer_in_an_array_1394.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -424,19 +425,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.decryp_string_from_alphabet_to_integer_mapping_1309" />
       <item itemvalue="Python.rank_transform_of_an_array_1331" />
       <item itemvalue="Python.the_k_weakest_rows_in_a_matrix_1337" />
       <item itemvalue="Python.count_negative_numbers_in_a_sorted_matrix_1352" />
       <item itemvalue="Python.lucky_numbers_in_a_matrix_1380" />
+      <item itemvalue="Python.find_lucky_integer_in_an_array_1394" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.find_lucky_integer_in_an_array_1394" />
         <item itemvalue="Python.lucky_numbers_in_a_matrix_1380" />
         <item itemvalue="Python.count_negative_numbers_in_a_sorted_matrix_1352" />
         <item itemvalue="Python.the_k_weakest_rows_in_a_matrix_1337" />
         <item itemvalue="Python.rank_transform_of_an_array_1331" />
-        <item itemvalue="Python.decryp_string_from_alphabet_to_integer_mapping_1309" />
       </list>
     </recent_temporary>
   </component>
@@ -546,7 +547,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3586006" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3586006" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -614,13 +615,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/duplicate_zeros_1089.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/distribute_candies_to_people_1103.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -967,8 +961,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/create_target_array_in_the_given_order_1389.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="23" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/find_lucky_integer_in_an_array_1394.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
