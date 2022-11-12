@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/reformat_the_string_1417.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/maximum_score_after_splitting_a_string_1422.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,28 +13,29 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/LeetCode$repeated_substring_pattern_459.coverage" NAME="repeated_substring_pattern_459 Coverage Results" MODIFIED="1568686525605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$the_k_weakest_rows_in_a_matrix_1337.coverage" NAME="the_k_weakest_rows_in_a_matrix_1337 Coverage Results" MODIFIED="1665589528273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$next_greater_element_i_496.coverage" NAME="next_greater_element_i_496 Coverage Results" MODIFIED="1570762273214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$find_numbers_with_even_number_of_digits_1295.coverage" NAME="find_numbers_with_even_number_of_digits_1295 Coverage Results" MODIFIED="1664764100670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$reformat_the_string_1417.coverage" NAME="reformat_the_string_1417 Coverage Results" MODIFIED="1668016270020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$add_to_array_form_of_integer_989.coverage" NAME="add_to_array_form_of_integer_989 Coverage Results" MODIFIED="1630743521758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$remove_outermost_parentheses_1021.coverage" NAME="remove_outermost_parentheses_1021 Coverage Results" MODIFIED="1640101441856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$license_key_formatting_482.coverage" NAME="license_key_formatting_482 Coverage Results" MODIFIED="1569725597299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$maximum_subarray_53.coverage" NAME="maximum_subarray_53 Coverage Results" MODIFIED="1560312484612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_lucky_integer_in_an_array_1394.coverage" NAME="find_lucky_integer_in_an_array_1394 Coverage Results" MODIFIED="1667057710333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$binary_number_with_alternating_bits_693_part2.coverage" NAME="binary_number_with_alternating_bits_693_part2 Coverage Results" MODIFIED="1590485688539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$minimum_cost_to_move_chips_to_the_same_position_1217.coverage" NAME="minimum_cost_to_move_chips_to_the_same_position_1217 Coverage Results" MODIFIED="1664022972400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$count_largest_group_1399.coverage" NAME="count_largest_group_1399 Coverage Results" MODIFIED="1667228728440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$decryp_string_from_alphabet_to_integer_mapping_1309.coverage" NAME="decryp_string_from_alphabet_to_integer_mapping_1309 Coverage Results" MODIFIED="1664992028604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$lucky_numbers_in_a_matrix_1380.coverage" NAME="lucky_numbers_in_a_matrix_1380 Coverage Results" MODIFIED="1666796940779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$heaters_475.coverage" NAME="heaters_475 Coverage Results" MODIFIED="1569292299258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_common_characters_1002.coverage" NAME="find_common_characters_1002 Coverage Results" MODIFIED="1635610402980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$count_negative_numbers_in_a_sorted_matrix_1352.coverage" NAME="count_negative_numbers_in_a_sorted_matrix_1352 Coverage Results" MODIFIED="1665933848947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$element_appearing_more_than_25__in_sorted_array_1287.coverage" NAME="element_appearing_more_than_25%_in_sorted_array_1287 Coverage Results" MODIFIED="1664764026299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$fibonacci_number_509.coverage" NAME="fibonacci_number_509 Coverage Results" MODIFIED="1572230386752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$day_of_the_week_1185.coverage" NAME="day_of_the_week_1185 Coverage Results" MODIFIED="1650719650686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-    <SUITE FILE_PATH="coverage/LeetCode$rank_transform_of_an_array_1331.coverage" NAME="rank_transform_of_an_array_1331 Coverage Results" MODIFIED="1665420567318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_winner_on_a_tic_tac_toe_game_1275.coverage" NAME="find_winner_on_a_tic_tac_toe_game_1275 Coverage Results" MODIFIED="1664553770783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$the_k_weakest_rows_in_a_matrix_1337.coverage" NAME="the_k_weakest_rows_in_a_matrix_1337 Coverage Results" MODIFIED="1665589528273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$find_numbers_with_even_number_of_digits_1295.coverage" NAME="find_numbers_with_even_number_of_digits_1295 Coverage Results" MODIFIED="1664764100670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$add_to_array_form_of_integer_989.coverage" NAME="add_to_array_form_of_integer_989 Coverage Results" MODIFIED="1630743521758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$remove_outermost_parentheses_1021.coverage" NAME="remove_outermost_parentheses_1021 Coverage Results" MODIFIED="1640101441856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$license_key_formatting_482.coverage" NAME="license_key_formatting_482 Coverage Results" MODIFIED="1569725597299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$maximum_subarray_53.coverage" NAME="maximum_subarray_53 Coverage Results" MODIFIED="1560312484612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$minimum_cost_to_move_chips_to_the_same_position_1217.coverage" NAME="minimum_cost_to_move_chips_to_the_same_position_1217 Coverage Results" MODIFIED="1664022972400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$count_negative_numbers_in_a_sorted_matrix_1352.coverage" NAME="count_negative_numbers_in_a_sorted_matrix_1352 Coverage Results" MODIFIED="1665933848947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$maximum_score_after_splitting_a_string_1422.coverage" NAME="maximum_score_after_splitting_a_string_1422 Coverage Results" MODIFIED="1668227807259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$fibonacci_number_509.coverage" NAME="fibonacci_number_509 Coverage Results" MODIFIED="1572230386752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$rank_transform_of_an_array_1331.coverage" NAME="rank_transform_of_an_array_1331 Coverage Results" MODIFIED="1665420567318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$partition_array_into_three_parts_with_equal_sum_1013.coverage" NAME="partition_array_into_three_parts_with_equal_sum_1013 Coverage Results" MODIFIED="1638285203531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
   </component>
   <component name="FUSProjectUsageTrigger">
@@ -64,49 +65,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="77" />
+          <entry key="py" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="77" />
+          <entry key="Python" value="79" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="29439" />
+          <entry key="py" value="29950" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="29439" />
+          <entry key="Python" value="29950" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/find_the_distance_value_between_two_arrays_1385.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/create_target_array_in_the_given_order_1389.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="23" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/find_lucky_integer_in_an_array_1394.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -152,11 +135,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/reformat_the_string_1417.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="54">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/maximum_score_after_splitting_a_string_1422.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -196,7 +188,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/number_of_equivalent_domino_pairs_1128.py" />
         <option value="$PROJECT_DIR$/easy/n-th_tribonacci_number_1137.py" />
         <option value="$PROJECT_DIR$/easy/day_of_the_year_1154.py" />
         <option value="$PROJECT_DIR$/easy/find_words_that_can_be_formed_by_characters_1160.py" />
@@ -247,6 +238,7 @@
         <option value="$PROJECT_DIR$/easy/string_matching_in_an_array_1408.py" />
         <option value="$PROJECT_DIR$/easy/minimum_value_to_get_positive_step_by_step_sum_1413.py" />
         <option value="$PROJECT_DIR$/easy/reformat_the_string_1417.py" />
+        <option value="$PROJECT_DIR$/easy/maximum_score_after_splitting_a_string_1422.py" />
       </list>
     </option>
   </component>
@@ -257,8 +249,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="49" />
+    <option name="x" value="5" />
+    <option name="y" value="77" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -318,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reformat_the_string_1417">
+  <component name="RunManager" selected="Python.maximum_score_after_splitting_a_string_1422">
     <configuration name="count_largest_group_1399" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,28 +325,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/count_largest_group_1399.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="count_negative_numbers_in_a_sorted_matrix_1352" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/count_negative_numbers_in_a_sorted_matrix_1352.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -407,6 +377,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="maximum_score_after_splitting_a_string_1422" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/maximum_score_after_splitting_a_string_1422.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="reformat_the_string_1417" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -430,19 +422,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.count_negative_numbers_in_a_sorted_matrix_1352" />
       <item itemvalue="Python.lucky_numbers_in_a_matrix_1380" />
       <item itemvalue="Python.find_lucky_integer_in_an_array_1394" />
       <item itemvalue="Python.count_largest_group_1399" />
       <item itemvalue="Python.reformat_the_string_1417" />
+      <item itemvalue="Python.maximum_score_after_splitting_a_string_1422" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.maximum_score_after_splitting_a_string_1422" />
         <item itemvalue="Python.reformat_the_string_1417" />
         <item itemvalue="Python.count_largest_group_1399" />
         <item itemvalue="Python.find_lucky_integer_in_an_array_1394" />
         <item itemvalue="Python.lucky_numbers_in_a_matrix_1380" />
-        <item itemvalue="Python.count_negative_numbers_in_a_sorted_matrix_1352" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +536,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2831412" />
@@ -620,13 +612,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/n-th_tribonacci_number_1137.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/day_of_the_year_1154.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -694,13 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="547" column="8" selection-start-line="547" selection-start-column="8" selection-end-line="547" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -973,8 +951,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/reformat_the_string_1417.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        <state relative-caret-position="54">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/collections/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="547" column="8" selection-start-line="547" selection-start-column="8" selection-end-line="547" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/maximum_score_after_splitting_a_string_1422.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
