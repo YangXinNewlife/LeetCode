@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/matrix_diagonal_sum_1572.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/replace_all_?'s_to_avoid_consecutive_repeating_characters_1576.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,6 +38,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$license_key_formatting_482.coverage" NAME="license_key_formatting_482 Coverage Results" MODIFIED="1569725597299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$maximum_subarray_53.coverage" NAME="maximum_subarray_53 Coverage Results" MODIFIED="1560312484612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$minimum_cost_to_move_chips_to_the_same_position_1217.coverage" NAME="minimum_cost_to_move_chips_to_the_same_position_1217 Coverage Results" MODIFIED="1664022972400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$replace_all___s_to_avoid_consecutive_repeating_characters_1576.coverage" NAME="replace_all_?'s_to_avoid_consecutive_repeating_characters_1576 Coverage Results" MODIFIED="1672673537860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$matrix_diagonal_sum_1572.coverage" NAME="matrix_diagonal_sum_1572 Coverage Results" MODIFIED="1672668907954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$shuffle_the_array_1470.coverage" NAME="shuffle_the_array_1470 Coverage Results" MODIFIED="1668951121113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$count_negative_numbers_in_a_sorted_matrix_1352.coverage" NAME="count_negative_numbers_in_a_sorted_matrix_1352 Coverage Results" MODIFIED="1665933848947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -75,40 +76,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="107" />
+          <entry key="py" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="107" />
+          <entry key="Python" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="40472" />
+          <entry key="py" value="41108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="40472" />
+          <entry key="Python" value="41108" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/count_odd_numbers_in_an_interval_range_1523.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/shuffle_string_1528.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -181,11 +173,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/matrix_diagonal_sum_1572.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+            <state relative-caret-position="323">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/replace_all_?'s_to_avoid_consecutive_repeating_characters_1576.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -206,7 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/Remove Palindromic Subsequences_1332.py" />
         <option value="$PROJECT_DIR$/easy/remove_palindromic_subsequences_1332.py" />
         <option value="$PROJECT_DIR$/easy/the_k_weakest_rows_in_a_matrix_1337.py" />
         <option value="$PROJECT_DIR$/easy/number_of_steps_to_reduce_a_number_to_zero_1342.py" />
@@ -257,6 +257,7 @@
         <option value="$PROJECT_DIR$/easy/most_visited_sector_in_a_circular_track_1560.py" />
         <option value="$PROJECT_DIR$/easy/detect_pattern_of_length_m_repeated_k_or_more_times_1566.py" />
         <option value="$PROJECT_DIR$/easy/matrix_diagonal_sum_1572.py" />
+        <option value="$PROJECT_DIR$/easy/replace_all_?'s_to_avoid_consecutive_repeating_characters_1576.py" />
       </list>
     </option>
   </component>
@@ -267,8 +268,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="361" />
+    <option name="y" value="295" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -328,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.matrix_diagonal_sum_1572">
+  <component name="RunManager" selected="Python.replace_all_?'s_to_avoid_consecutive_repeating_characters_1576">
     <configuration name="final_prices_with_a_special_discount_in_a_shop_1475" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -395,6 +395,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="replace_all_?'s_to_avoid_consecutive_repeating_characters_1576" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/replace_all_?'s_to_avoid_consecutive_repeating_characters_1576.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="running_sum_of_1d_array_1480" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -417,42 +439,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shuffle_the_array_1470" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/shuffle_the_array_1470.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.shuffle_the_array_1470" />
       <item itemvalue="Python.final_prices_with_a_special_discount_in_a_shop_1475" />
       <item itemvalue="Python.running_sum_of_1d_array_1480" />
       <item itemvalue="Python.reformat_date_1507" />
       <item itemvalue="Python.matrix_diagonal_sum_1572" />
+      <item itemvalue="Python.replace_all_?'s_to_avoid_consecutive_repeating_characters_1576" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.replace_all_?'s_to_avoid_consecutive_repeating_characters_1576" />
         <item itemvalue="Python.matrix_diagonal_sum_1572" />
         <item itemvalue="Python.reformat_date_1507" />
         <item itemvalue="Python.running_sum_of_1d_array_1480" />
         <item itemvalue="Python.final_prices_with_a_special_discount_in_a_shop_1475" />
-        <item itemvalue="Python.shuffle_the_array_1470" />
       </list>
     </recent_temporary>
   </component>
@@ -571,7 +571,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5058309" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.51457727" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -630,13 +630,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/the_k_weakest_rows_in_a_matrix_1337.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="21" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/number_of_steps_to_reduce_a_number_to_zero_1342.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -983,8 +976,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/matrix_diagonal_sum_1572.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        <state relative-caret-position="323">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/replace_all_?'s_to_avoid_consecutive_repeating_characters_1576.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
     </entry>
