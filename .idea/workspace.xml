@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/mean_of_array_after_removing_some_elements_1619.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/largest_substring_between_two_equal_characters_1624.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,40 +79,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="117" />
+          <entry key="py" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="117" />
+          <entry key="Python" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="44130" />
+          <entry key="py" value="44511" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="44130" />
+          <entry key="Python" value="44511" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/matrix_diagonal_sum_1572.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/replace_all_?'s_to_avoid_consecutive_repeating_characters_1576.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -185,11 +176,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/mean_of_array_after_removing_some_elements_1619.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/largest_substring_between_two_equal_characters_1624.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -210,7 +210,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/increasing_decreasing_string_1730.py" />
         <option value="$PROJECT_DIR$/easy/generate_a_string_with_characters_that_have_odd Counts_1374.py" />
         <option value="$PROJECT_DIR$/easy/generate_a_string_with_characters_that_have_odd_counts_1374.py" />
         <option value="$PROJECT_DIR$/easy/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree_1379.py" />
@@ -261,6 +260,7 @@
         <option value="$PROJECT_DIR$/easy/special_array_with_x_elements_greater_than_or_equal_x_1608.py" />
         <option value="$PROJECT_DIR$/easy/maximum_nesting_depth_of_the_parentheses_1614.py" />
         <option value="$PROJECT_DIR$/easy/mean_of_array_after_removing_some_elements_1619.py" />
+        <option value="$PROJECT_DIR$/easy/largest_substring_between_two_equal_characters_1624.py" />
       </list>
     </option>
   </component>
@@ -271,8 +271,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="388" />
+    <option name="x" value="6" />
+    <option name="y" value="313" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -561,7 +561,7 @@
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30331412" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30331412" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -575,7 +575,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.51457727" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.51457727" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -634,13 +634,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree_1379.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/lucky_numbers_in_a_matrix_1380.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -987,8 +980,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/mean_of_array_after_removing_some_elements_1619.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/largest_substring_between_two_equal_characters_1624.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
