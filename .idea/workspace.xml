@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/design_an_ordered_stream_1656.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,6 +34,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$reformat_date_1507.coverage" NAME="reformat_date_1507 Coverage Results" MODIFIED="1669905319191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_winner_on_a_tic_tac_toe_game_1275.coverage" NAME="find_winner_on_a_tic_tac_toe_game_1275 Coverage Results" MODIFIED="1664553770783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$the_k_weakest_rows_in_a_matrix_1337.coverage" NAME="the_k_weakest_rows_in_a_matrix_1337 Coverage Results" MODIFIED="1665589528273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$check_if_two_string_arrays_are_equivalent_1662.coverage" NAME="check_if_two_string_arrays_are_equivalent_1662 Coverage Results" MODIFIED="1677944052964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_numbers_with_even_number_of_digits_1295.coverage" NAME="find_numbers_with_even_number_of_digits_1295 Coverage Results" MODIFIED="1664764100670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$add_to_array_form_of_integer_989.coverage" NAME="add_to_array_form_of_integer_989 Coverage Results" MODIFIED="1630743521758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$remove_outermost_parentheses_1021.coverage" NAME="remove_outermost_parentheses_1021 Coverage Results" MODIFIED="1640101441856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -80,40 +81,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="125" />
+          <entry key="py" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="125" />
+          <entry key="Python" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="47300" />
+          <entry key="py" value="47619" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="47300" />
+          <entry key="Python" value="47619" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/design_parking_system_1603.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="121">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/special_array_with_x_elements_greater_than_or_equal_x_1608.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -177,11 +169,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/design_an_ordered_stream_1656.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="143">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -211,7 +212,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/find_lucky_integer_in_an_array_1394.py" />
         <option value="$PROJECT_DIR$/easy/count_largest_group_1399.py" />
         <option value="$PROJECT_DIR$/easy/minimum_subsequence_in_non_increasing_order_1403.py" />
         <option value="$PROJECT_DIR$/easy/string_matching_in_an_array_1408.py" />
@@ -262,6 +262,7 @@
         <option value="$PROJECT_DIR$/easy/get_maximum_in_generated_array_1646.py" />
         <option value="$PROJECT_DIR$/easy/defuse_the_bomb_1652.py" />
         <option value="$PROJECT_DIR$/easy/design_an_ordered_stream_1656.py" />
+        <option value="$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py" />
       </list>
     </option>
   </component>
@@ -333,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.check_array_formation_through_concatenation_1640">
+  <component name="RunManager" selected="Python.check_if_two_string_arrays_are_equivalent_1662">
     <configuration name="check_array_formation_through_concatenation_1640" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -356,7 +357,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="replace_all_?'s_to_avoid_consecutive_repeating_characters_1576" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="check_if_two_string_arrays_are_equivalent_1662" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -369,7 +370,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/replace_all_?'s_to_avoid_consecutive_repeating_characters_1576.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,19 +446,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.replace_all_?'s_to_avoid_consecutive_repeating_characters_1576" />
       <item itemvalue="Python.special_positions_in_a_binary_matrix_1582" />
       <item itemvalue="Python.sum_of_all_odd_length_subarrays_1588" />
       <item itemvalue="Python.special_array_with_x_elements_greater_than_or_equal_x_1608" />
       <item itemvalue="Python.check_array_formation_through_concatenation_1640" />
+      <item itemvalue="Python.check_if_two_string_arrays_are_equivalent_1662" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.check_if_two_string_arrays_are_equivalent_1662" />
         <item itemvalue="Python.check_array_formation_through_concatenation_1640" />
         <item itemvalue="Python.special_array_with_x_elements_greater_than_or_equal_x_1608" />
         <item itemvalue="Python.sum_of_all_odd_length_subarrays_1588" />
         <item itemvalue="Python.special_positions_in_a_binary_matrix_1582" />
-        <item itemvalue="Python.replace_all_?'s_to_avoid_consecutive_repeating_characters_1576" />
       </list>
     </recent_temporary>
   </component>
@@ -567,7 +568,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927953" weight="0.26239067" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49927953" visible="true" weight="0.26239067" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -576,7 +577,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50072044" side_tool="true" weight="0.51457727" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49927953" visible="true" weight="0.51457727" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49927953" weight="0.51457727" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -635,13 +636,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/string_matching_in_an_array_1408.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/collections/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-182">
@@ -988,8 +982,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/design_an_ordered_stream_1656.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="143">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
         </state>
       </provider>
     </entry>
