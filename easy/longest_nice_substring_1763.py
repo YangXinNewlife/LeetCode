@@ -43,24 +43,3 @@ class LongestNiceSubstring(object):
                 return False
         return True
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
