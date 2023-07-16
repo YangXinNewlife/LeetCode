@@ -23,26 +23,3 @@ class MinimumOperationsToMakeTheArrayIncreasing(object):
         return result
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
