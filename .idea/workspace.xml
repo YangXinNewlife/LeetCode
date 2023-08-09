@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/longer_contiguous_segments_of_ones_than_zeros_1869.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/sorting_the_sentence_1859.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/sum_of_all_subset_xor_totals_1863.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/check_if_word_equals_summation_of_two_words_1880.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/substrings_of_size_three_with_distinct_characters_1876.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,49 +95,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="166" />
+          <entry key="py" value="168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="166" />
+          <entry key="Python" value="168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="63041" />
+          <entry key="py" value="63699" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="63041" />
+          <entry key="Python" value="63699" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/sign_of_the_product_of_an_array_1822.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/minimum_operations_to_make_the_array_increasing_1827.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/check_if_the_sentence_is_pangram_1832.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -202,11 +183,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/longer_contiguous_segments_of_ones_than_zeros_1869.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/substrings_of_size_three_with_distinct_characters_1876.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/check_if_word_equals_summation_of_two_words_1880.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -227,8 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/special_array_with_x_elements_greater_than_or_equal_x_1608.py" />
-        <option value="$PROJECT_DIR$/easy/maximum_nesting_depth_of_the_parentheses_1614.py" />
         <option value="$PROJECT_DIR$/easy/mean_of_array_after_removing_some_elements_1619.py" />
         <option value="$PROJECT_DIR$/easy/largest_substring_between_two_equal_characters_1624.py" />
         <option value="$PROJECT_DIR$/easy/slowest_key_1629.py" />
@@ -278,6 +275,8 @@
         <option value="$PROJECT_DIR$/easy/sorting_the_sentence_1859.py" />
         <option value="$PROJECT_DIR$/easy/sum_of_all_subset_xor_totals_1863.py" />
         <option value="$PROJECT_DIR$/easy/longer_contiguous_segments_of_ones_than_zeros_1869.py" />
+        <option value="$PROJECT_DIR$/easy/substrings_of_size_three_with_distinct_characters_1876.py" />
+        <option value="$PROJECT_DIR$/easy/check_if_word_equals_summation_of_two_words_1880.py" />
       </list>
     </option>
   </component>
@@ -288,8 +287,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="7" />
-    <option name="y" value="125" />
+    <option name="y" value="338" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -576,7 +574,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="7" y="125" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="338" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26080692" />
@@ -652,20 +650,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/special_array_with_x_elements_greater_than_or_equal_x_1608.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/maximum_nesting_depth_of_the_parentheses_1614.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/mean_of_array_after_removing_some_elements_1619.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1004,8 +988,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/longer_contiguous_segments_of_ones_than_zeros_1869.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/substrings_of_size_three_with_distinct_characters_1876.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/check_if_word_equals_summation_of_two_words_1880.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
