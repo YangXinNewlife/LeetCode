@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/largest_odd_number_in_string_1903.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/maximum_product_difference_between_two_pairs_1913.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/redistribute_characters_to_make_all_strings_equal_1897.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/remove_one_element_to_make_the_array_strictly_1909.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/build_array_from_permutation_1920.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/count_square_sum_triples_1925.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -99,49 +97,31 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="174" />
+          <entry key="py" value="176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="174" />
+          <entry key="Python" value="176" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="66111" />
+          <entry key="py" value="66598" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="66111" />
+          <entry key="Python" value="66598" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/sum_of_all_subset_xor_totals_1863.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/longer_contiguous_segments_of_ones_than_zeros_1869.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/substrings_of_size_three_with_distinct_characters_1876.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -205,11 +185,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/easy/maximum_product_difference_between_two_pairs_1913.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="9" selection-end-line="16" />
+            <state relative-caret-position="171">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/build_array_from_permutation_1920.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="11" column="23" lean-forward="true" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/easy/count_square_sum_triples_1925.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -230,8 +228,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/defuse_the_bomb_1652.py" />
-        <option value="$PROJECT_DIR$/easy/design_an_ordered_stream_1656.py" />
         <option value="$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py" />
         <option value="$PROJECT_DIR$/easy/maximum_repeating_substring_1668.py" />
         <option value="$PROJECT_DIR$/easy/richest_customer_wealth_1672.py" />
@@ -281,6 +277,8 @@
         <option value="$PROJECT_DIR$/easy/largest_odd_number_in_string_1903.py" />
         <option value="$PROJECT_DIR$/easy/remove_one_element_to_make_the_array_strictly_1909.py" />
         <option value="$PROJECT_DIR$/easy/maximum_product_difference_between_two_pairs_1913.py" />
+        <option value="$PROJECT_DIR$/easy/build_array_from_permutation_1920.py" />
+        <option value="$PROJECT_DIR$/easy/count_square_sum_triples_1925.py" />
       </list>
     </option>
   </component>
@@ -290,9 +288,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="258" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="419" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -579,7 +576,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="258" width="1440" height="797" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26080692" />
@@ -587,7 +584,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49927953" visible="true" weight="0.303207" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927953" weight="0.303207" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -596,7 +593,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50072044" side_tool="true" weight="0.51457727" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49927953" weight="0.51457727" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49927953" visible="true" weight="0.51457727" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -655,20 +652,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/defuse_the_bomb_1652.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/design_an_ordered_stream_1656.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1007,8 +990,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/maximum_product_difference_between_two_pairs_1913.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="9" selection-end-line="16" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/build_array_from_permutation_1920.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="23" lean-forward="true" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/count_square_sum_triples_1925.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
         </state>
       </provider>
     </entry>
