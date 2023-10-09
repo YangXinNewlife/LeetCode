@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/build_array_from_permutation_1920.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/count_square_sum_triples_1925.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/binary_tree_postorder_traversal_145.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/check_if_all_characters_have_equal_number_of_occurrences_1941.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/check_if_string_is_a_prefix_of_array_1961.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/concatenation_of_array_1929.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/count_complete_tree_nodes_222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/delete_characters_to_make_fancy_string_1957.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/find_if_path_exists_in_graph_1971.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/maximum_number_ofwords_you_can_type_1935.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/number_of_strings_that_appear_as_substrings_in_word_1967.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/sum_of_digits_of_string_after_convert_1945.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/three_divisors_1952.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +26,16 @@
     <SUITE FILE_PATH="coverage/LeetCode$sorting_the_sentence_1859.coverage" NAME="sorting_the_sentence_1859 Coverage Results" MODIFIED="1690218508091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$maximum_repeating_substring_1668.coverage" NAME="maximum_repeating_substring_1668 Coverage Results" MODIFIED="1678455690974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$destination_city_1436.coverage" NAME="destination_city_1436 Coverage Results" MODIFIED="1668230637067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$three_divisors_1952.coverage" NAME="three_divisors_1952 Coverage Results" MODIFIED="1695522633143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$number_of_different_integers_in_a_string_1805.coverage" NAME="number_of_different_integers_in_a_string_1805 Coverage Results" MODIFIED="1687793517273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_lucky_integer_in_an_array_1394.coverage" NAME="find_lucky_integer_in_an_array_1394 Coverage Results" MODIFIED="1667057710333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$special_positions_in_a_binary_matrix_1582.coverage" NAME="special_positions_in_a_binary_matrix_1582 Coverage Results" MODIFIED="1672760601037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$check_array_formation_through_concatenation_1640.coverage" NAME="check_array_formation_through_concatenation_1640 Coverage Results" MODIFIED="1675524190183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$sum_of_digits_of_string_after_convert_1945.coverage" NAME="sum_of_digits_of_string_after_convert_1945 Coverage Results" MODIFIED="1695458905768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$lucky_numbers_in_a_matrix_1380.coverage" NAME="lucky_numbers_in_a_matrix_1380 Coverage Results" MODIFIED="1666796940779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$final_prices_with_a_special_discount_in_a_shop_1475.coverage" NAME="final_prices_with_a_special_discount_in_a_shop_1475 Coverage Results" MODIFIED="1669555014858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$heaters_475.coverage" NAME="heaters_475 Coverage Results" MODIFIED="1569292299258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$concatenation_of_array_1929.coverage" NAME="concatenation_of_array_1929 Coverage Results" MODIFIED="1694313394500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_common_characters_1002.coverage" NAME="find_common_characters_1002 Coverage Results" MODIFIED="1635610402980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$check_if_the_sentence_is_pangram_1832.coverage" NAME="check_if_the_sentence_is_pangram_1832 Coverage Results" MODIFIED="1689435248587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$reformat_phone_number_1694.coverage" NAME="reformat_phone_number_1694 Coverage Results" MODIFIED="1678978608806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -41,6 +53,7 @@
     <SUITE FILE_PATH="coverage/LeetCode$license_key_formatting_482.coverage" NAME="license_key_formatting_482 Coverage Results" MODIFIED="1569725597299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$matrix_diagonal_sum_1572.coverage" NAME="matrix_diagonal_sum_1572 Coverage Results" MODIFIED="1672668907954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$shuffle_the_array_1470.coverage" NAME="shuffle_the_array_1470 Coverage Results" MODIFIED="1668951121113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$maximum_number_ofwords_you_can_type_1935.coverage" NAME="maximum_number_ofwords_you_can_type_1935 Coverage Results" MODIFIED="1694314358349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$count_negative_numbers_in_a_sorted_matrix_1352.coverage" NAME="count_negative_numbers_in_a_sorted_matrix_1352 Coverage Results" MODIFIED="1665933848947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$check_if_one_string_swap_can__make_strings_equal_1790.coverage" NAME="check_if_one_string_swap_can__make_strings_equal_1790 Coverage Results" MODIFIED="1687275992584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$fibonacci_number_509.coverage" NAME="fibonacci_number_509 Coverage Results" MODIFIED="1572230386752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -58,6 +71,8 @@
     <SUITE FILE_PATH="coverage/LeetCode$running_sum_of_1d_array_1480.coverage" NAME="running_sum_of_1d_array_1480 Coverage Results" MODIFIED="1669821863414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$sum_of_digits_in_base_k_1837.coverage" NAME="sum_of_digits_in_base_k_1837 Coverage Results" MODIFIED="1689470899896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$reformat_date_1507.coverage" NAME="reformat_date_1507 Coverage Results" MODIFIED="1669905319191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$check_if_string_is_a_prefix_of_array_1961.coverage" NAME="check_if_string_is_a_prefix_of_array_1961 Coverage Results" MODIFIED="1695574141539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
+    <SUITE FILE_PATH="coverage/LeetCode$find_if_path_exists_in_graph_1971.coverage" NAME="find_if_path_exists_in_graph_1971 Coverage Results" MODIFIED="1696864383237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$the_k_weakest_rows_in_a_matrix_1337.coverage" NAME="the_k_weakest_rows_in_a_matrix_1337 Coverage Results" MODIFIED="1665589528273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$find_numbers_with_even_number_of_digits_1295.coverage" NAME="find_numbers_with_even_number_of_digits_1295 Coverage Results" MODIFIED="1664764100670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$minimum_changes_to_make_alternating_binary_string_1758.coverage" NAME="minimum_changes_to_make_alternating_binary_string_1758 Coverage Results" MODIFIED="1684634618288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
@@ -97,25 +112,25 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="md" value="1" />
-          <entry key="py" value="176" />
+          <entry key="py" value="188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="176" />
+          <entry key="Python" value="188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="66598" />
+          <entry key="py" value="70740" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="66598" />
+          <entry key="Python" value="70740" />
         </counts>
       </usages-collector>
     </session>
@@ -123,91 +138,91 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/substrings_of_size_three_with_distinct_characters_1876.py">
+        <entry file="file://$PROJECT_DIR$/easy/maximum_number_ofwords_you_can_type_1935.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/check_if_word_equals_summation_of_two_words_1880.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/determine_whether_matrix_can_be_obtained_by_rotation_1886.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/check_if_all_the_integers_in_a_range_are_covered_1893.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/redistribute_characters_to_make_all_strings_equal_1897.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/largest_odd_number_in_string_1903.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/remove_one_element_to_make_the_array_strictly_1909.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/maximum_product_difference_between_two_pairs_1913.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
+            <state relative-caret-position="73">
               <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/easy/build_array_from_permutation_1920.py">
+        <entry file="file://$PROJECT_DIR$/easy/check_if_all_characters_have_equal_number_of_occurrences_1941.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="11" column="23" lean-forward="true" selection-end-line="18" />
+            <state relative-caret-position="133">
+              <caret line="10" column="15" lean-forward="true" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/sum_of_digits_of_string_after_convert_1945.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="25" lean-forward="true" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/binary_tree_postorder_traversal_145.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/count_complete_tree_nodes_222.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/three_divisors_1952.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="15" column="25" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/delete_characters_to_make_fancy_string_1957.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/check_if_string_is_a_prefix_of_array_1961.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/easy/number_of_strings_that_appear_as_substrings_in_word_1967.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/easy/count_square_sum_triples_1925.py">
+        <entry file="file://$PROJECT_DIR$/easy/find_if_path_exists_in_graph_1971.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            <state relative-caret-position="114">
+              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -228,17 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py" />
-        <option value="$PROJECT_DIR$/easy/maximum_repeating_substring_1668.py" />
-        <option value="$PROJECT_DIR$/easy/richest_customer_wealth_1672.py" />
-        <option value="$PROJECT_DIR$/easy/goal_parser_interpretation_1678.py" />
-        <option value="$PROJECT_DIR$/easy/count_the_number_of_consistent_strings_1684.py" />
-        <option value="$PROJECT_DIR$/easy/count_of_matches_in_tournament_1688.py" />
-        <option value="$PROJECT_DIR$/easy/reformat_phone_number_1694.py" />
-        <option value="$PROJECT_DIR$/easy/number_of_students_unable_to_eat_lunch_1700.py" />
-        <option value="$PROJECT_DIR$/easy/determine_if_string_halves_are_alike_1704.py" />
-        <option value="$PROJECT_DIR$/easy/maximum_units_on_a_truck_1710.py" />
-        <option value="$PROJECT_DIR$/easy/calculate_money_in_leetcode_bank_1716.py" />
         <option value="$PROJECT_DIR$/easy/decode_xored_array_1720.py" />
         <option value="$PROJECT_DIR$/easy/number_of_rectangles_that_can_form_the_largest_square_1725.py" />
         <option value="$PROJECT_DIR$/easy/find_the_highest_altitude_1732.py" />
@@ -279,6 +283,17 @@
         <option value="$PROJECT_DIR$/easy/maximum_product_difference_between_two_pairs_1913.py" />
         <option value="$PROJECT_DIR$/easy/build_array_from_permutation_1920.py" />
         <option value="$PROJECT_DIR$/easy/count_square_sum_triples_1925.py" />
+        <option value="$PROJECT_DIR$/easy/concatenation_of_array_1929.py" />
+        <option value="$PROJECT_DIR$/easy/maximum_number_ofwords_you_can_type_1935.py" />
+        <option value="$PROJECT_DIR$/easy/check_if_all_characters_have_equal_number_of_occurrences_1941.py" />
+        <option value="$PROJECT_DIR$/easy/sum_of_digits_of_string_after_convert_1945.py" />
+        <option value="$PROJECT_DIR$/easy/binary_tree_postorder_traversal_145.py" />
+        <option value="$PROJECT_DIR$/easy/count_complete_tree_nodes_222.py" />
+        <option value="$PROJECT_DIR$/easy/three_divisors_1952.py" />
+        <option value="$PROJECT_DIR$/easy/delete_characters_to_make_fancy_string_1957.py" />
+        <option value="$PROJECT_DIR$/easy/check_if_string_is_a_prefix_of_array_1961.py" />
+        <option value="$PROJECT_DIR$/easy/number_of_strings_that_appear_as_substrings_in_word_1967.py" />
+        <option value="$PROJECT_DIR$/easy/find_if_path_exists_in_graph_1971.py" />
       </list>
     </option>
   </component>
@@ -288,8 +303,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="419" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-27" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
@@ -350,8 +366,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.redistribute_characters_to_make_all_strings_equal_1897">
-    <configuration name="check_if_all_the_integers_in_a_range_are_covered_1893" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.find_if_path_exists_in_graph_1971">
+    <configuration name="check_if_string_is_a_prefix_of_array_1961" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,7 +380,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/check_if_all_the_integers_in_a_range_are_covered_1893.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/check_if_string_is_a_prefix_of_array_1961.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +389,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="check_if_the_sentence_is_pangram_1832" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="find_if_path_exists_in_graph_1971" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -386,7 +402,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/check_if_the_sentence_is_pangram_1832.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/find_if_path_exists_in_graph_1971.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,7 +411,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="redistribute_characters_to_make_all_strings_equal_1897" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="maximum_number_ofwords_you_can_type_1935" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -408,7 +424,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/redistribute_characters_to_make_all_strings_equal_1897.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/maximum_number_ofwords_you_can_type_1935.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -417,7 +433,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorting_the_sentence_1859" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sum_of_digits_of_string_after_convert_1945" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -430,7 +446,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/sorting_the_sentence_1859.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/sum_of_digits_of_string_after_convert_1945.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -439,7 +455,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sum_of_digits_in_base_k_1837" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="three_divisors_1952" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -452,7 +468,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/sum_of_digits_in_base_k_1837.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/three_divisors_1952.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -462,19 +478,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.check_if_the_sentence_is_pangram_1832" />
-      <item itemvalue="Python.sum_of_digits_in_base_k_1837" />
-      <item itemvalue="Python.sorting_the_sentence_1859" />
-      <item itemvalue="Python.check_if_all_the_integers_in_a_range_are_covered_1893" />
-      <item itemvalue="Python.redistribute_characters_to_make_all_strings_equal_1897" />
+      <item itemvalue="Python.maximum_number_ofwords_you_can_type_1935" />
+      <item itemvalue="Python.sum_of_digits_of_string_after_convert_1945" />
+      <item itemvalue="Python.three_divisors_1952" />
+      <item itemvalue="Python.check_if_string_is_a_prefix_of_array_1961" />
+      <item itemvalue="Python.find_if_path_exists_in_graph_1971" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.redistribute_characters_to_make_all_strings_equal_1897" />
-        <item itemvalue="Python.check_if_all_the_integers_in_a_range_are_covered_1893" />
-        <item itemvalue="Python.sorting_the_sentence_1859" />
-        <item itemvalue="Python.sum_of_digits_in_base_k_1837" />
-        <item itemvalue="Python.check_if_the_sentence_is_pangram_1832" />
+        <item itemvalue="Python.find_if_path_exists_in_graph_1971" />
+        <item itemvalue="Python.check_if_string_is_a_prefix_of_array_1961" />
+        <item itemvalue="Python.three_divisors_1952" />
+        <item itemvalue="Python.sum_of_digits_of_string_after_convert_1945" />
+        <item itemvalue="Python.maximum_number_ofwords_you_can_type_1935" />
       </list>
     </recent_temporary>
   </component>
@@ -576,7 +592,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+    <frame x="-27" y="23" width="1440" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26080692" />
@@ -584,7 +600,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49927953" weight="0.303207" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49927953" visible="true" weight="0.37755102" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39941692" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -593,7 +609,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32944608" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50072044" side_tool="true" weight="0.51457727" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49927953" visible="true" weight="0.51457727" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49927953" weight="0.51457727" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32944608" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -652,90 +668,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$sum_number.coverage" NAME="sum_number Coverage Results" MODIFIED="1594096623654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/interview" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/easy/check_if_two_string_arrays_are_equivalent_1662.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/maximum_repeating_substring_1668.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/richest_customer_wealth_1672.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/goal_parser_interpretation_1678.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/count_the_number_of_consistent_strings_1684.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/count_of_matches_in_tournament_1688.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/reformat_phone_number_1694.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/number_of_students_unable_to_eat_lunch_1700.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/determine_if_string_halves_are_alike_1704.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/maximum_units_on_a_truck_1710.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/calculate_money_in_leetcode_bank_1716.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easy/decode_xored_array_1720.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easy/number_of_rectangles_that_can_form_the_largest_square_1725.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1004,8 +936,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/easy/count_square_sum_triples_1925.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        <state relative-caret-position="133">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/concatenation_of_array_1929.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/-1199943126/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="5060" column="8" selection-start-line="5060" selection-start-column="8" selection-end-line="5060" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/maximum_number_ofwords_you_can_type_1935.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/check_if_all_characters_have_equal_number_of_occurrences_1941.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="15" lean-forward="true" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/sum_of_digits_of_string_after_convert_1945.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" lean-forward="true" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/binary_tree_postorder_traversal_145.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/count_complete_tree_nodes_222.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/three_divisors_1952.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="25" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/delete_characters_to_make_fancy_string_1957.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/check_if_string_is_a_prefix_of_array_1961.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/number_of_strings_that_appear_as_substrings_in_word_1967.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/easy/find_if_path_exists_in_graph_1971.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
         </state>
       </provider>
     </entry>
