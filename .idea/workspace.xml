@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/easy/a_number_after_a_double_reversal_2119.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/find_first_palindromic_string_in_the_array_2108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/maximum_number_of_words _found_in_sentences_2114.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/minimum_sum_of_four_digit_number_after_splitting_digits_2160.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,57 +82,6 @@
     <SUITE FILE_PATH="coverage/LeetCode$maximum_score_after_splitting_a_string_1422.coverage" NAME="maximum_score_after_splitting_a_string_1422 Coverage Results" MODIFIED="1668227807259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$maximum_number_of_balls_in_a_box_1742.coverage" NAME="maximum_number_of_balls_in_a_box_1742 Coverage Results" MODIFIED="1683820332406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
     <SUITE FILE_PATH="coverage/LeetCode$check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence_1455.coverage" NAME="check_if_a_word_occurs_as_a_prefix_of_any_word_in_a_sentence_1455 Coverage Results" MODIFIED="1668440778503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-2084815864">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="51" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.11" value="3" />
-          <entry key="project.open.time.12" value="5" />
-          <entry key="project.open.time.13" value="5" />
-          <entry key="project.open.time.14" value="10" />
-          <entry key="project.open.time.15" value="7" />
-          <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.5" value="5" />
-          <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="53" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="md" value="1" />
-          <entry key="py" value="218" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="Python" value="218" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="7" />
-          <entry key="py" value="81068" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="81068" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
@@ -238,6 +188,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YangXinNewlife"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YangXinNewlife/LeetCode.git",
+    "accountId": "0a05bb4d-b352-4eff-93a9-483ffb914aef"
+  }
+}]]></component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -301,6 +263,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="365" />
@@ -339,34 +304,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/biubiubiu/PythonDir/LeetCode/easy/check_array_formation_through_concatenation_1640.py" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.a_number_after_a_double_reversal_2119">
+  <component name="RunManager" selected="Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160">
     <configuration name="a_number_after_a_double_reversal_2119" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -389,6 +342,7 @@
     </configuration>
     <configuration name="find_subsequence_of_length_k_with_the_largest_sum_2099" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -411,6 +365,7 @@
     </configuration>
     <configuration name="maximum_number_of_words _found_in_sentences_2114" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -431,8 +386,9 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minimum_difference_between_highest_and_lowest_of_k_scores_1984" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="minimum_sum_of_four_digit_number_after_splitting_digits_2160" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -443,8 +399,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/minimum_difference_between_highest_and_lowest_of_k_scores_1984.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/minimum_sum_of_four_digit_number_after_splitting_digits_2160.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -455,6 +410,7 @@
     </configuration>
     <configuration name="two_out_of_three_2032" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -476,7 +432,7 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.minimum_difference_between_highest_and_lowest_of_k_scores_1984" />
+      <item itemvalue="Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160" />
       <item itemvalue="Python.two_out_of_three_2032" />
       <item itemvalue="Python.find_subsequence_of_length_k_with_the_largest_sum_2099" />
       <item itemvalue="Python.maximum_number_of_words _found_in_sentences_2114" />
@@ -484,14 +440,22 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160" />
         <item itemvalue="Python.a_number_after_a_double_reversal_2119" />
         <item itemvalue="Python.maximum_number_of_words _found_in_sentences_2114" />
         <item itemvalue="Python.find_subsequence_of_length_k_with_the_largest_sum_2099" />
         <item itemvalue="Python.two_out_of_three_2032" />
-        <item itemvalue="Python.minimum_difference_between_highest_and_lowest_of_k_scores_1984" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -621,28 +585,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state width="1638" height="330" key="GridCell.Tab.0.bottom" timestamp="1627231224071">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.bottom/0.23.1680.943@0.23.1680.943" timestamp="1627231224071" />
-    <state width="1638" height="330" key="GridCell.Tab.0.center" timestamp="1627231224070">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.center/0.23.1680.943@0.23.1680.943" timestamp="1627231224070" />
-    <state width="1638" height="330" key="GridCell.Tab.0.left" timestamp="1627231224070">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.left/0.23.1680.943@0.23.1680.943" timestamp="1627231224070" />
-    <state width="1638" height="330" key="GridCell.Tab.0.right" timestamp="1627231224071">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state width="1638" height="330" key="GridCell.Tab.0.right/0.23.1680.943@0.23.1680.943" timestamp="1627231224071" />
-    <state x="505" y="290" width="670" height="676" key="search.everywhere.popup" timestamp="1626015023429">
-      <screen x="0" y="23" width="1680" height="943" />
-    </state>
-    <state x="505" y="290" width="670" height="676" key="search.everywhere.popup/0.23.1680.943@0.23.1680.943" timestamp="1626015023429" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCode$shortest_distance_to_a_character_821.coverage" NAME="shortest_distance_to_a_character_821 Coverage Results" MODIFIED="1596184318122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/easy" />
