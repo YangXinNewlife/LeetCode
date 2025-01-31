@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="add MinimumSumOfFourDigitNumberAfterSplittingDigits">
-      <change afterPath="$PROJECT_DIR$/easy/sort_even_and_odd_indices_independently_2164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/count_equal_aand_divisible_pairs_in_an_array_2176.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/count_integers_with_even_digit_sum_2180.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/count_operations_to_obtain_zero_2169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/widest_vertical_area_between_two_points_containing_no_points_1637.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -305,8 +308,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.count_equal_aand_divisible_pairs_in_an_array_2176.executor": "Run",
+    "Python.count_integers_with_even_digit_sum_2180.executor": "Run",
     "Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160.executor": "Run",
     "Python.sort_even_and_odd_indices_independently_2164.executor": "Run",
+    "Python.widest_vertical_area_between_two_points_containing_no_points_1637.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
@@ -317,8 +323,8 @@
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sort_even_and_odd_indices_independently_2164">
-    <configuration name="a_number_after_a_double_reversal_2119" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.widest_vertical_area_between_two_points_containing_no_points_1637">
+    <configuration name="count_equal_aand_divisible_pairs_in_an_array_2176" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,8 +337,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/a_number_after_a_double_reversal_2119.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/count_equal_aand_divisible_pairs_in_an_array_2176.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -341,7 +346,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find_subsequence_of_length_k_with_the_largest_sum_2099" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="count_integers_with_even_digit_sum_2180" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -354,31 +359,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/find_subsequence_of_length_k_with_the_largest_sum_2099.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="maximum_number_of_words _found_in_sentences_2114" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="LeetCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/maximum_number_of_words _found_in_sentences_2114.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/count_integers_with_even_digit_sum_2180.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -431,20 +412,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="widest_vertical_area_between_two_points_containing_no_points_1637" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/easy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/widest_vertical_area_between_two_points_containing_no_points_1637.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.count_equal_aand_divisible_pairs_in_an_array_2176" />
+      <item itemvalue="Python.count_integers_with_even_digit_sum_2180" />
       <item itemvalue="Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160" />
       <item itemvalue="Python.sort_even_and_odd_indices_independently_2164" />
-      <item itemvalue="Python.find_subsequence_of_length_k_with_the_largest_sum_2099" />
-      <item itemvalue="Python.maximum_number_of_words _found_in_sentences_2114" />
-      <item itemvalue="Python.a_number_after_a_double_reversal_2119" />
+      <item itemvalue="Python.widest_vertical_area_between_two_points_containing_no_points_1637" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.widest_vertical_area_between_two_points_containing_no_points_1637" />
+        <item itemvalue="Python.count_integers_with_even_digit_sum_2180" />
+        <item itemvalue="Python.count_equal_aand_divisible_pairs_in_an_array_2176" />
         <item itemvalue="Python.sort_even_and_odd_indices_independently_2164" />
         <item itemvalue="Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160" />
-        <item itemvalue="Python.a_number_after_a_double_reversal_2119" />
-        <item itemvalue="Python.maximum_number_of_words _found_in_sentences_2114" />
-        <item itemvalue="Python.find_subsequence_of_length_k_with_the_largest_sum_2099" />
       </list>
     </recent_temporary>
   </component>
