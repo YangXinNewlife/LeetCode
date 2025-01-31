@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="add MinimumSumOfFourDigitNumberAfterSplittingDigits">
-      <change afterPath="$PROJECT_DIR$/easy/count_equal_aand_divisible_pairs_in_an_array_2176.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/count_integers_with_even_digit_sum_2180.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/count_operations_to_obtain_zero_2169.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/easy/widest_vertical_area_between_two_points_containing_no_points_1637.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,6 +192,9 @@
     "assignee": "YangXinNewlife"
   }
 }]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0a05bb4d-b352-4eff-93a9-483ffb914aef" />
+  </component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/YangXinNewlife/LeetCode.git",
@@ -315,7 +314,7 @@
     "Python.widest_vertical_area_between_two_points_containing_no_points_1637.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
