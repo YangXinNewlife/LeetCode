@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be742ca3-22dc-4ff9-8c39-e8f0f9418db5" name="Default" comment="add MinimumSumOfFourDigitNumberAfterSplittingDigits">
+      <change afterPath="$PROJECT_DIR$/easy/counting_words_with_a_given_prefix_2185.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/easy/most_frequent_number_following_key_in_an_array_2190.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,21 +188,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YangXinNewlife"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YangXinNewlife&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="0a05bb4d-b352-4eff-93a9-483ffb914aef" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YangXinNewlife/LeetCode.git",
-    "accountId": "0a05bb4d-b352-4eff-93a9-483ffb914aef"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YangXinNewlife/LeetCode.git&quot;,
+    &quot;accountId&quot;: &quot;8891e80d-362d-44af-99de-692d9e6f0ac7&quot;
   }
-}]]></component>
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -264,9 +266,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="y" value="365" />
@@ -310,11 +312,12 @@
     "Python.count_equal_aand_divisible_pairs_in_an_array_2176.executor": "Run",
     "Python.count_integers_with_even_digit_sum_2180.executor": "Run",
     "Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160.executor": "Run",
+    "Python.most_frequent_number_following_key_in_an_array_2190.executor": "Run",
     "Python.sort_even_and_odd_indices_independently_2164.executor": "Run",
     "Python.widest_vertical_area_between_two_points_containing_no_points_1637.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -322,7 +325,7 @@
       <recent name="$PROJECT_DIR$/easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.widest_vertical_area_between_two_points_containing_no_points_1637">
+  <component name="RunManager" selected="Python.most_frequent_number_following_key_in_an_array_2190">
     <configuration name="count_equal_aand_divisible_pairs_in_an_array_2176" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
@@ -367,7 +370,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="minimum_sum_of_four_digit_number_after_splitting_digits_2160" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="most_frequent_number_following_key_in_an_array_2190" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -380,7 +383,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/minimum_sum_of_four_digit_number_after_splitting_digits_2160.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/easy/most_frequent_number_following_key_in_an_array_2190.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -434,19 +437,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.most_frequent_number_following_key_in_an_array_2190" />
       <item itemvalue="Python.count_equal_aand_divisible_pairs_in_an_array_2176" />
       <item itemvalue="Python.count_integers_with_even_digit_sum_2180" />
-      <item itemvalue="Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160" />
       <item itemvalue="Python.sort_even_and_odd_indices_independently_2164" />
       <item itemvalue="Python.widest_vertical_area_between_two_points_containing_no_points_1637" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.most_frequent_number_following_key_in_an_array_2190" />
         <item itemvalue="Python.widest_vertical_area_between_two_points_containing_no_points_1637" />
         <item itemvalue="Python.count_integers_with_even_digit_sum_2180" />
         <item itemvalue="Python.count_equal_aand_divisible_pairs_in_an_array_2176" />
         <item itemvalue="Python.sort_even_and_odd_indices_independently_2164" />
-        <item itemvalue="Python.minimum_sum_of_four_digit_number_after_splitting_digits_2160" />
       </list>
     </recent_temporary>
   </component>
@@ -593,6 +596,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
